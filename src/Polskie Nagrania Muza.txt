@@ -1,0 +1,1056 @@
+0001,Witold Rowicki:Ludwik van Beethoven VII Symfonia,1956,XL
+0002,Piotr Czajkowski:IV Symfonia,1966,XL					
+0003,Witold Rowicki:Brahms I Symfonia,1956,XL
+0004,Bohdan Wodiczko:Szostakowicz X Symfonia,1956,XL
+0005,Witold Rowicki:Czajkowski V Symfonia,1956,XL
+0006,Witold Rowicki:Karłowicz,1956,XL
+0007,Witold Rowicki:Rimski Korsakow Szeherezada,1956,XL
+0008,różni wykonawcy:Uwertury i suity,1957,XL
+0009,Bohdan Wodiczko:Bach Mozart Respighi,1957,XL
+0010,Fou Ts'ong:Chopin Koncert emoll,1958,XL
+0011,różni wykonawcy:Weber Dukas Gershwin,1959,XL
+0012,Kwartet Tatrai:Haydn Beethoveen,1960,XL
+0013,Kwartet Tatrai:Kwartety smyczkowe,1960,XL
+0014,Halina CzernyStefańska:Chopin Recital fortepianowy,1960,XL
+0015,różni wykonawcy:Moniuszko Straszny dwór,1960,XL
+0019,Walerian Bierdiajew:Stanisław Moniuszko Halka,1960,XL
+0022,Mircea Basarab:Honegger III Symfonia Liturgiczna,1960,XL
+0023,Sławomir Żerdzicki:Moniuszko Sonety Krymskie,1960,XL
+0024,Grzegorz Fitelberg:Karłowicz Moniuszko,1960,XL
+0025,Grzegorz Fitelberg:Karłowicz Noskowski Moniuszko Stefani,1961,XL
+0026 Eugenia Umińska:Szymanowski Koncerty skrzypcowe,1960,XL
+0027 Walerian Bierdiajew:Czajkowski Symfonia bmoll Patetyczna,1960,SX
+0028 Halina CzernyStefańska:Recital fortepianowy,1960,XL
+0029 Halina CzernyStefańska:Fryderyk Chopin Koncert fortepianowy emoll,1961,XL
+0030 Henryk Sztompka:Chopin Dzieła wszystkie Mazurki vol. 1,1961,XL
+0031,Henryk Sztompka:Chopin Dzieła wszystkie Mazurki vol. 2,1961,XL
+0032,Henryk Sztompka:Chopin Dzieła wszystkie Mazurki vol. 3,1961,XL
+0033 różni wykonawcy:Sonaty,1960,XL
+0034 Władysław Szpilman Tadeusz Wroński:Brahms Sonaty skrzypcowe,XL
+0035 Władysław Szpilman Tadeusz Wroński:Muzyka kameralna,XL
+0036 Kwartet Smyczkowy im. Borodina:Kwartety smyczkowe,XL
+0037 Światosław Richter:Chopin Szymanowski Szostakowicz,XL
+0038 Henryk Sztompka:Chopin Dzieła wszystkie Mazurki vol. 4,XL
+0039 artyści scen warszawskich:Leon Schiller Pastorałka,XL
+0040 różni wykonawcy:III MKS im. Wieniawskiego '57,XL
+0041,różni wykonawcy:III MKS im. Wieniawskiego '57,XL
+0042,różni wykonawcy:III MKS im. Wieniawskiego '57,XL
+0043 różni wykonawcy:Schubert Piękna młynarka,XL
+0044 różni wykonawcy:III MKS im. Wieniawskiego '57,XL
+0045 różni wykonawcy:III MKS im. Wieniawskiego '57,XL
+0046 Břetislav Bakala:Dworzak Symfonia "Z nowego świata",XL
+0047 różni wykonawcy:Chopin Dzieła wszystkie Pieśni op. 74,XL
+0048 Orkiestra Symfoniczna Filharmonii Narodowej:Fryderyk Chopin Koncert fortepianowy Nr 2 Fmoll op.21,XL
+0049 Roman Totenberg:Bach Koncerty skrzypcowe,XL
+0050 Roman Totenberg:Beethoven Koncert skrzypcowy,XL
+0051,Roman Totenberg:Wieniawski Szymanowski Koncerty skrzypcowe,XL
+0052,Orkiestra Symfoniczna Filharmonii Narodowej w Warszawie dyr.:Witold Rowicki:Szostakowicz Symfonia nr 5,XL
+0053 Światosław Richter:Mozart Schumann,XL
+0054 Światosław Richter:Robert Schumann,XL
+0055 Światosław Richter:Prokofiew Rachmaninow,XL
+0056 Światosław Richter:Rachmaninow,XL
+0057 Halina CzernyStefańska:Chopin Dzieła wszystkie Polonezy vol. 1,(,XL,SX)
+0058 Halina CzernyStefańska:Chopin Dzieła wszystkie Polonezy vol. 2,XL
+0059 Jan Ekier:Chopin Dzieła wszystkie Sonaty (,XL,SX S,XL)
+0060 Halina CzernyStefańska:Chopin Dzieła wszystkie Piano concerto nr 1,in eminor op. 11,(,XL,SX)
+0061,Jan Ekier:Chopin Dzieła wszystkie Ballady (,XL,SX)
+0062,Halina CzernyStefańska:Chopin Dzieła wszystkie Preludia op. 28 (,XL S,XL)
+0063 Bolesław Woytowicz:Chopin Dzieła wszystkie Etiudy vol. 1,(,XL,SX)
+0064 Bolesław Woytowicz:Chopin Dzieła wszystkie Etiudy vol. 2,(,XL,SX S,XL)
+0065 różni wykonawcy:J.S. Bach Koncerty fortepianowe i kantaty,XL
+0066 Stefania Woytowicz:Pieśni,XL
+0067 Jan Krenz Szostakowicz de Falla Chaczaturian,SX
+0068 Regina Smendzianka:Fryderyk Chopin "Walce Valses",SX
+0069 Orkiestra Symfoniczna Filharmonii Narodowej:Fryderyk Chopin "Piano Concerto No. 2,Berceuse Tarantella Ecossaises Valse",SX
+0070 Zbigniew Drzewiecki Henryk Sztompka:Chopin Dzieła wszystkie Nokturny vol. 1,(,XL,SX)
+0071,Jan Ekier:Chopin Dzieła wszystkie Nokturny vol. 2,(,XL,SX)
+0072,Witold Rowicki:Lutosławski Serocki Baird (S,XL)
+0073 Stefania Woytowicz Andrzej Bachleda:Chopin Dzieła wszystkie Pieśni op. 74 (,XL,SX)
+0074 Lidia Grychtołówna:Chopin Dzieła wszystkie Scherza (,XL,SX)
+0075 Lidia Grychtołówna:Chopin Dzieła wszystkie Impromptus (,XL,SX)
+0076 Władysław Kędra:Chopin Dzieła wszystkie Wariacje fantazja i rondo a la krakowiak (,XL,SX)
+0077 Halina CzernyStefańska Ludwik Stefański:Chopin Dzieła wszystkie Ronda i inne (,XL,SX)
+0078 Halina CzernyStefańska Ludwik Stefański:Chopin Dzieła wszystkie Polonezy młodzieńcze op. posth (,XL,SX)
+0079 Barbara HesseBukowska:Chopin Dzieła wszystkie Wariacje i inne,XL
+0080 różni wykonawcy:Chopin Dzieła wszystkie Trio i inne (,XL S,XL)
+0081,Maria Wiłkomirska:Chopin Dzieła wszystkie Sonaty (,XL,SX)
+0082,Helmut Koch:Brahms Niemieckie requiem,XL
+0084/7 Helmut Koch:Heandel Mesjasz,SX
+0089/91,Helmut Koch:Haydn Pory roku,XL
+0092,Henryk Sztompka:Chopin Dzieła wszystkie Mazurki wszystkie vol. 1,(,XL,SX)
+0093 Henryk Sztompka:Chopin Dzieła wszystkie Mazurki wszystkie vol. 2,SX
+0094 Henryk Sztompka:Chopin Dzieła wszystkie Mazurki wszystkie vol. 3 (,XL,SX S,XL)
+0095 Henryk Sztompka:Chopin Dzieła wszystkie Mazurki wszystkie vol. 4 (,XL,SX)
+0096 Agnes Giebel:Bach Kantaty,XL
+0097 Ryszard Bakst:Ignacy Jan Paderewski Utwory fortepianowe,XL
+0098 Halina CzernyStefańska:Recital chopinowski,XL
+0099 Stefania Woytowicz:Śpiewa najpiękniejsze partie operowe,XL
+0100 Musicae Antiquae Collegium Varsoviense:Ze skarbnicy muzycznej polskiego tysiąclecia,XL
+0101,Orkiestra Symfoniczna Filharmonii Narodowej dyr. Witold Rowicki:Felix MendelssohnBartholdy Sen nocy letniej Maurice Ravel Boléro (,XL S,XL)
+0102,Barbara HesseBukowska:Szymanowski Dwadzieścia mazurków,XL
+0103 Witold Małcużyński:Brahms I Koncert fortepianowy (,XL,SX)
+0104 Bronisław Gimpel:Henryk Wieniawski Utwory skrzypcowe (,XL S,XL)
+0105 Witold Rowicki:Johhanes Brahms IV Symfonia emoll op. 98 1961,XL
+0106 Bernard Ładysz:Arie z oper,XL
+0108 Witold Rowicki:Johhanes Brahms I Symfonia cmoll op. 68 (,XL S,XL)
+0109/12,Różni wykonawcy:Gwiazdy polskiej opery 1961,XL
+0113 Wanda Wiłkomirska:Henryk Wieniawski Karol Szymanowski Koncerty skrzypcowe 1961,XL
+0114 Regina Smendzianka:Paderewski Franck,XL
+0116 Witold Rowicki:Szymanowski,XL
+0117 Zbigniew Drzewiecki:Fortepian Chopina (,XL X)
+0118 Witold Rowicki:Brahms II Symfonia Ddur op. 73,XL
+0119 Witold Rowicki:Brahms III Symfonia Fdur op. 90 (,XL S,XL)
+0120 różni wykonawcy:Szymanowski,XL
+0121,różni wykonawcy:Szymanowski,XL
+0122,Stanisław Wisłocki:Ludwig van Beethoven Symfonia nr 3 (,XL S,XL)
+0123 Witold Małcużyński Orkiestra Symfoniczna Filharmonii Narodowej dyr.:Witold Rowicki:Piotr Czajkowski I Koncert Fortepianowy bmoll op.23,SX
+0124 Witold Małcużyński Orkiestra Symfoniczna Filharmonii Narodowej dyr.:Witold Rowicki:Sergiusz Rachmaninow III Koncert Fortepianowy dmoll op.30,SX
+0125 różni wykonawcy:Szymanowski Szostakowicz,XL
+0126 Kwartet Borodina Barbara HesseBukowska:Szymanowski,XL
+0127 różni wykonawcy:Jazz Jamboree '61,vol. 1,XL
+0128 Tadeusz Wroński:Brahms Koncert skrzypcowy,XL
+0129/31,Rudolf Mauersberger:Johann Sebastian Bach Masza hmoll BXV232,SX
+0132,Witold Rowicki:Witold Lutosławski Concerto for Orchestra,XL
+0133 Albert Catell:Czajkowski,XL
+0134/5 Franz Konwitschny:Beethoween I i IX Symfonia (,XL S,XL)
+0136 Stanisław Wisłocki:Ludwig van Beethoven VI Symfonia 'Pastoralna' Fdur op. 68 (,XL S,XL)
+0137 Władysłw Kędra:Liszt Koncerty fortepianowe (,XL,SX)
+0138 Władysłw Kędra:Gershwin,XL
+0139 Witold Rowicki:Franz Schubert V Symfonia Bdur VIII Symfonia hmoll „Niedokończona” D759,SX
+0140 Tadeusz Wroński:Koncerty skrzypcowe,SX
+0141,Mazowsze:„Mazowsze” The Polish Song and Dance Ensemble vol. 1,(,XL,SX)
+0142,Mazowsze:„Mazowsze” The Polish Song and Dance Ensemble vol. 2,(,XL,SX)
+0143 Mazowsze:„Mazowsze” The Polish Song and Dance Ensemble vol. 3 (,XL,SX)
+0144 Stanisław Wisłocki:Mozart,XL
+0145 Zdzisław Górzyński:Flis (,XL,SX)
+0146 Albert Catell Stanisław Wisłocki:Dworzak Koncert wiolonczelowy,XL
+0147 Jerzy Semkow:Niezapomniane karty oper Moniuszki,XL
+0148 Ignacy Friedman:Wielcy polscy artyści grają Beethowena,XL
+0149 Witold Rowicki:Szymanowski Stabat Mater,XL
+0150 Wielka Orkiestra Symfoniczna PR dyr.:Jan Krenz:Wagner Liszt R. Strauss (,XL,SX)
+0151,Radu Aldulescu Carlo Zecchi:Beethoven Muzyka kameralna,XL
+0152,różni wykonawcy:De Falla Enescu Contantinescu,XL
+0153 Stefan Ruha:Czajkowski Koncert Skrzypcowy,XL
+0154/6 różni wykonawcy:Cyrulik Sewilski,XL
+0157/60 różni wykonawcy:Ze złotych kart pianistyki polskiej,XL
+0162,Władysław Kędra:Ferenc Liszt Utwory fortepianowe (,XL S,XL)
+0163 różni wykonawcy:Jewish Songs,XL
+0164 Poznańskie Słowiki:Poznańskie Słowiki śpiewają,XL
+0165 różni wykonawcy:Polskie pieśni żołnierskie i ludowe 1962,XL
+0166 Ryszard Bakst:Beethoven sonaty (S,XL)
+0167 Ryszard Bakst:Beethoven III Koncert fortepianowu cmoll 1963,XL
+0168 różni wykonawcy:IV MKS im. Wieniawskiego '62,XL
+0169 Chór i Orkiestra PR dyr.:Jerzy Kołaczkowski:Idzie żołnierz borem lasem ... cykl 1,XL
+0170 Bogdan Paprocki:Arie operowe,XL
+0171,różni wykonawcy:Malawski Penderecki Bacewicz 1963,SX
+0172,Jerzy Semkow:Carmen Opera w przekroju 1962,(S,XL)
+0173 Stanisław Wisłocki:Beethoven II Symfonia Ddur op. 36 (,XL,SX S,XL)
+0176 Igor Iwanow Zbigniew Drzewiecki:Koncerty,XL
+0177 Witold Rowicki:Tadeusz Baird 1963,XL
+0178 Kwintet Warszawski:Zarębski Kwintet fortepianowy,XL
+0179 Wanda Wiłkomirska:Mieczysław Karłowicz 1962,XL
+0180 Feliks Dzierżanowski:Znaszli swój kraj?,XL
+0181,Abraham Samuel Rettig:Z albumu pieśni żydowskich 1964 (ST,XL)
+0182,Śląsk:„Śląsk” The Polish Song and Dance Ensemble vol. 1,1964 (,XL,SX)
+0183 Śląsk „Śląsk” The Polish Song and Dance Ensemble vol. 2,1964 (,SX S,XL)
+0184 Alina Bolechowska (sopran) Chór Męski przy Kościele św. Jakuba dyr. Zdzisław Woźniak Feliks Rączkowski Henryk Olton (organy):Boże Narodzenie w Polsce (S,XL)
+0185 Andrzej Hiolski:Słynne arie operowe 1964,SX
+0186 Andrzej Kurylewicz Quintet:Go Right,XL
+0187 Mieczysław Fogg:Mieczysław Fogg śpiewa piosenki swojej młodości 1960,XL
+0188 Edmund Kajdasz:Musica Antiqua Polonica 1964,XL
+0189 Mazowsze:„Mazowsze” The Polish Song and Dance Ensemble vol. 4 (S,XL)
+0190 Mazowsze:„Mazowsze” "Mazowsze" śpiewa kolędy (,XL,SX)
+0191,Karol Teutsch:Muzyka włoskiego baroku (S,XL)
+0192,różni wykonawcy:Jazz Jamboree '63 vol. 1,XL
+0193 różni wykonawcy:Jazz Jamboree '63 vol. 2,XL
+0194 Robert Satanowski:Jan Wański Dwie symfonie,XL
+0196 Barbara HesseBukowska:Paderewski Różycki,XL
+0198 Zdzisław Górzyński:Johann Strauss Król walca 1962,(,XL,SX)
+0199 Zdzisław Górzyński:Verdi Trubadur il trovatore (,XL S,XL)
+0200 Karol Teutsch:Muzyka instrumentalna polskiego baroku,SX
+0201,różni wykonawcy:Z melodią i piosenką dookoła świata (5),XL
+0203 Tadeusz Wesołowski:Pożegnanie ojczyzny,XL
+0204 Chór i Orkiestra PR dyr.:Jerzy Kołaczkowski soliści:Echa Ojczyzny,XL
+0205 Stanisław Wisłocki:Koncerty fortepianowe,XL
+0208 różni wykonawcy:Warszawa da się lubić 1964,XL
+0209 Poznańskie Słowiki:Hej kolęda kolęda... Poznańskie Słowiki śpiewają kolędy (,SX S,XL)
+0210 różni wykonawcy:Idzie żołnierz borem lasem vol. 2,(,XL S,XL)
+0211,Aleksander Bardini:Adam Mickiewicz Pan Tadeusz Księga I (X)
+0212,Aleksander Bardini:Adam Mickiewicz Pan Tadeusz Księga I cd (X)
+0213 Andrzej Szczepkowski:Adam Mickiewicz Pan Tadeusz Księga II (X)
+0214 Andrzej Łapicki:Adam Mickiewicz Pan Tadeusz Księga III (X)
+0215 Tadeusz Łomnicki:Adam Mickiewicz Pan Tadeusz Księga IV (X)
+0216 Tadeusz Łomnicki:Adam Mickiewicz Pan Tadeusz Księga IV cd (X)
+0217 Andrzej Wyrzykowski:Adam Mickiewicz Pan Tadeusz Księga V (X)
+0218 Jan Świderski:Adam Mickiewicz Pan Tadeusz Księga VI (X)
+0219 Wieńczysław Gliński:Adam Mickiewicz Pan Tadeusz Księga VII (X)
+0220 Gustaw Holoubek:Adam Mickiewicz Pan Tadeusz Księga VIII (X)
+0221,Mieczysław Milecki:Adam Mickiewicz Pan Tadeusz Księga IX (X)
+0222,Janusz Warnecki:Adam Mickiewicz Pan Tadeusz Księga X (X)
+0223 Jan Kreczmar:Adam Mickiewicz Pan Tadeusz Księga XI (X)
+0224 Ignacy Gogolewski:Adam Mickiewicz Pan Tadeusz Księga XII (X)
+0225 Robert Satanowski:Różycki Poematy symfoniczne,XL
+0226 Mieczysław Mierzejewski:Hrabina Opera w przekroju,XL
+0227 Stanisław Grzesiuk:Nie masz cwaniaka nad warszawiaka 1963 (X,XL)
+0228 Bogna Sokorska:Słowik Warszawy (,XL,SX)
+0229 Witold Rowicki:Moniuszko Utwory na orkiestrę,XL
+0230 różni wykonawcy:Czy pani mieszka sama?,XL
+0231,różni wykonawcy:Works For Wood Wind Instruments with Orchestra,XL
+0232,Witold Rowicki:Tematyka dziecięca w muzyce symfonicznej (S,XL)
+0233 Karol Stryja:Bizet Suity Arlezjanki,XL
+0234 Stefan Stuligrosz:Mikołaj Gomółka Melodie na Psałterz Polski,XL
+0235 Joachim Grubich:Polska muzyka organowa XVI XVII w.,XL
+0236 Warszawscy Stompersi:New Orleans Stompers (album),XL
+0237 Jan Krenz:Witold Lutosławski Utwory symfoniczne,XL
+0238 Jan Krenz:Witold Lutosławski Utwory symfoniczne kompozytorów polskich 1964,XL
+0239 różni wykonawcy:Jazz Jamboree '64 vol. 1,1964,XL
+0240 różni wykonawcy:Jazz Jamboree '64 vol. 2,1964,XL
+0241,Andrzej Kurylewicz:Polish Radio Big Band (album) 1964),XL
+0242,różni wykonawcy:International Festival of Song Sopot Polish Hits 1964,XL
+0243 Stefania Woytowicz:Arie dawnych mistrzów,XL
+0245 Stefania Woytowicz:Arie dawnych mistrzów,XL
+0246 Polish Jazz Quartet:Polish Jazz Quartet (album) 1964,XL
+0247 Bohdan Łazuka:Bohdan trzymaj się! 1965,XL
+0248 Barbara Rylska:Sex appeal 1965,XL
+0249 różni wykonawcy:Balety Fragmenty 1965,XL
+0250/1,Mieczysław Mierzejewski:Szymanowski Król Roger,XL
+0252,Zdzisław Górzyński:Halka Opera w przekroju (,XL,SX)
+0253 Witold Rowicki:Straszny dwór Opera w przekroju,SX
+0254 Władysław Kędra:Hiszpańska muzyka fortepianowa 1964,XL
+0255 Ryszard Bakst:Zarębski Utwory fortepianowe,XL
+0256 różni wykonawcy:Najpiękniejsze pieśni polskie,XL
+0257 Jerzy Semkow:Tematy hiszpańskie w muzyce symfonicznej 1965 (S,XL)
+0258 Andrzej Trzaskowski Quintet:Andrzej Trzaskowski Quintet (album) 1965,XL
+0259 Witold Rowicki:Noskowski Żeleński,XL
+0260 Andrzej Markowski:Penderecki (,XL S,XL)
+0261,różni wykonawcy:VII Międzynarodowy Konkurs im. Fryderyka Chopina '65,XL
+0262,różni wykonawcy:VII Międzynarodowy Konkurs im. Fryderyka Chopina '65,XL
+0263 różni wykonawcy:VII Międzynarodowy Konkurs im. Fryderyka Chopina '65,XL
+0264 różni wykonawcy:VII Międzynarodowy Konkurs im. Fryderyka Chopina '65,XL
+0265 Martha Argerich:VII Międzynarodowy Konkurs im. Fryderyka Chopina '65 Winner of the First Prize,XL
+0266 Arthur Moreira Lima:VII Międzynarodowy Konkurs im. Fryderyka Chopina '65 Winner of the Second Prize,XL
+0267 Jan Krenz:Serocki Musica concentrate,XL
+0269 Stanisław Wisłocki:Karłowicz Poematy symfoniczne,XL
+0270 Kwintet Warszawski:Szostakowicz Shumann,XL
+0271,Stanisław Wisłocki:Orkiestrowe fragmenty z oper,XL
+0272,Mieczysław Fogg:Wspomnienia dawnych dni 1965,XL
+0273 Sława Przybylska:Ballady i Piosenki 2,1966,XL
+0274 Witold Rowicki:Grażyna Bacewicz 1966,XL
+0275 różni wykonawcy:Zwierzchowski Requiem,XL
+0276 Emil Waldteufel:Najpiękniejsze walce 1966 (,XL,SX S,XL)
+0277 różni wykonawcy:Grzegorz Gerwazy Gorczycki,XL
+0278 The London Beats:The London Beats 1965,XL
+0280 Studio M2:Stare przeboje Nowe rytmy,XL
+0281,różni wykonawcy:Czy pani lubi tańczyć? 1966,XL
+0282,Lasalle String Quartet:Kwartety smyczkowe (S,XL)
+0283 Joachim Grubich:Organ Recital 1966 (S,XL)
+0284 Anna German:Tańczące Eurydyki 1966,XL
+0285 różni wykonawcy:Jazz Jamboree '65 vol. 1,XL
+0286 różni wykonawcy:Jazz Jamboree '65 vol. 2,XL
+0287 różni wykonawcy:Sonaty,XL
+0288 Robert Satanowski:Jakub Gołąbek Trzy symfonie,XL
+0289 Zbigniew Chwedczuk:Józef Ziedler Nieszpory,XL
+0290 Stanisław Wisłocki:Karłowicz Odwieczne pieśni Rapsodia Litewska,XL
+0291,różni wykonawcy:Sygnały łowieckie,XL
+0292,Soliści i Orkiestra Teatru Wielkiego w Warszawie dyr.:Antoni Wicherek:Witold Rudziński Odprawa posłów greckich 1966,XL
+0293 Orkiestra Reprezentacyjna Wojska Polskiego dyr. Arnold Rezler:Polskie marsze wojskowe 1966,XL
+0294 Capella Bydgostiensis Pro Musica Antiqua:U źródeł muzyki polskiej,XL
+0295 Musicae Antiquae Collegium Varsoviense:Muzyka na Zamku Warszawskim,XL
+0296 Stanisław Gołoński:Muzyka na Zamku Wawelskim,XL
+0297 Wiera Gran:Wiera Gran śpiewa,XL
+0298 Komeda Quintet (Tomasz Stańko Krzysztof Komeda Zbyszek Namysłowski Günter Lenz Rune Carlsson):Astigmatic 1966 (,XL S,XL)
+0299 różni wykonawcy:Organ Music 1966 (S,XL)
+0300 różni wykonawcy:Piękne głosy Piękne arie,XL
+0301,Feliks Rączkowski (organy):Polish Romantic Organ Music,XL
+0302,różni wykonawcy:Mikołaj Zieliński,XL
+0303 Con Moto Ma Cantabile:Polska muzyka instrumentalna XVII wieku,XL
+0304 różni wykonawcy:Piosenki o mojej Warszawie 1966,XL
+0305 Zbigniew Namysłowski Quartet:Zbigniew Namysłowski Quartet 1966 (S,XL)
+0307 Tadeusz Łomnicki Zbigniew Zapasiewicz:Cyprian Norwid Wiersze wybrane (,SX S,XL)
+0308 różni wykonawcy:Teatr wyobraźni Latarnik,SX
+0309 Ragtime Jazz Band:Ragtime Jazz Band 1966,XL
+0310 Halina Łukomska:Arie operowe,XL
+0311,Irena Santor:Piosenki stare jak świat 1966 (,XL S,XL)
+0312,Józef Chwedczuk (organy):Bach Organ Works,XL
+0313 Wielka Orkiestra Symfoniczna PR dyr.:Zdzisław Górzyński:Słynne walce koncertowe,XL
+0314 Ivry Gitlis:Paganini Violin Concertos (S,XL)
+0315 różni wykonawcy:Operetka w przekroju Kalman 1966,XL
+0316 Orkiestra PR Orkiestra Filharmonii Śląskiej soliści:Franz Lehár Fragmenty z operetek,XL
+0317 Chór i Orkiestra PR soliści dyr.:Stefan Rachoń:Abraham Operetka w przekroju,XL
+0318 Ewa Demarczyk:Ewa Demarczyk śpiewa piosenki Zygmunta Koniecznego 1967 (,SX S,XL)
+0320 Jazz Band Ball Orchestra:Jazz Band Ball,XL
+0321,Orkiestra i Chór Mieszany soliści:Płonie ognisko w lesie... (S,XL)
+0322,Piotr Szczepanik:Piotr Szczepanik śpiewa 1966,XL
+0323 Filipinki:Filipinki To my 1966,XL
+0324 różni wykonawcy:W polskiej zagrodzie,XL
+0325/6 Chór i Orkiestra Filharmonii Krakowskiej soliści dyr.:Henryk Czyż:Krzysztof Penderecki Pasja według św. Łukasza (S,XL)
+0329 Orkiestra Syymfoniczna PR dyr.:Jan Krenz:Bolesław Szebelski,XL
+0330 różni wykonawcy:Z melodią i piosenką dookoła świata 1966,XL
+0333 Karol Teutsch:Koncerty na altówkę i wiolonczelę,XL
+0334 Jerzy Semkow:Polska tematyka w muzyce rosyjskiej,XL
+0335 Tadeusz Żmudziński:Karol Szymanowski,XL
+0336 Witold Rowicki:Polish Modern Music,SX
+0337 różni wykonawcy:Podhale śpiewa,XL
+0338 Mieczysław Wojnicki:Zakochani są wśród nas 1966,XL
+0339 różni wykonawcy:Piosenki Agnieszki Osieckiej 1966,XL
+0340 Stanisław Grzesiuk:Piosenki warszawskiej ulicy 1967,XL
+0341,Jarema Stępowski:Szemrane tango 1966 (,XL S,XL)
+0342,różni wykonawcy:Jazz Jamboree 66 vol. 1,XL
+0343 różni wykonawcy:Jazz Jamboree 66 vol. 2,XL
+0345 Jan Kiepura:Arie operowe 1966 (X,XL)
+0346 Jan Kiepura:Pieśni i piosenki filmowe 1966 (,SX,XL)
+0347 Zespół Pieśni i Tańca "Śląsk":„Śląsk” Christmas Carols Przy stole wigilijnym (,XL S,XL)
+0348 Zespół Pieśni i Tańca "Śląsk":„Śląsk” vol. 3,XL
+0349 Andrzej Łapicki:Mickiewicz Sonety,XL
+0351,Maria Koterbska:Nie mówmy że to miłość... 1967 (S,XL)
+0352,CzerwonoCzarni:CzerwonoCzarni 1966 (S,XL)
+0353 Ignacy Gogolewski:Wielkie monologi romantyczne (S,XL)
+0354 Władysław Kędra:Plays Piano Favorites (,XL S,XL)
+0355 Regina Smendzianka:Polska preromantyczna muzyka fortepianowa 1966,XL
+0356 Witold Rowicki:Czajkowski Suity z baletów,XL
+0357 Janusz Zabiegliński:Janusz Zabiegliński and his Swingtet 1966,XL
+0358 Edmund Kajdasz:Marcin Mielczewski Vesparae Dominicales,XL
+0360 Ryszard Bakst:Schumann,XL
+0361,Lidia Grychtołówna:Piano Recital 1966 (S,XL)
+0362,Irena Santor:Powrócisz tu... 1967 (S,XL)
+0363 różni wykonawcy:Zwycięzcy Festiwalu Jazz nad Odrą '66,XL
+0364 różni wykonawcy:Strauss Fragmenty z operetki,XL
+0365 różni wykonawcy:Haydn i Mozart,XL
+0366 Witold Rowicki:Czajkowski Symfonia Nr 4 fmoll op. 36 (,XL,SX)
+0367 Jerzy Połomski:Jerzy Połomski śpiewa 1966 (S,XL)
+0368 Edmund Kajdasz:Muzyka w dawnym Krakowie,XL
+0369 Wojciech Młynarski:Wojciech Młynarski śpiewa swoje piosenki 1967 (S,XL)
+0371,Tadeusz Chyła:Śpiewa własne ballady 1966 (S,XL)
+0372,Kabaret Starszych Panów:Cykl 3 1968 (S,XL)
+0373 Jerzy Żurawlew:Recital Chopinowski 1967,XL
+0374/6 Jean Bobescu:Verdi Rigoletto,XL
+0377 Aleksander Zelwerowicz:Mistrzowie sceny polskiej 1967,XL
+0378 Andrzej Trzaskowski Sextet:Seant,XL
+0380 różni wykonawcy:Niech zawsze będzie słońce 1967,XL
+0381,Violetta Villas:Dla ciebie miły 1967 (S,XL)
+0382,różni wykonawcy:Wieniawski Koncerty,XL
+0383 różni wykonawcy:Szymanowski Koncerty skrzypcowe 1968,XL
+0384 Stanisław Wisłocki:Utwory operowe 1967 (S,XL)
+0385 różni wykonawcy:Laureaci Konkursów im. Wieniawskiego vol. 1,XL
+0386 różni wykonawcy:Laureaci Konkursów im. Wieniawskiego vol. 2,(S,XL)
+0387 Zdzisław Górzyński:Gounod Faust Opera w przekroju 1968 (S,XL)
+0388 Asocjacja Hagaw:Do You Love Hagaw? 1967 (S,XL)
+0389 Polska Kapela Ludowa Feliksa Dzierżanowskiego:Zabawa do rana,XL
+0390 Czesław Niemen:Sukces 1968 (X,XL)
+0391,Jan Krenz:Henryk Górecki 1967 (S,XL)
+0392,Witold Rowicki:Musorgsky,XL
+0394 Halina Łukomska:Lutosławski Serocki Bloch Pieśni 1967,XL
+0395 Lionel Rogg:Johan Sebastian Bach Trio Sonaty na organy,XL
+0396 Czerwone Gitary:Czerwone Gitary (2) 1967 (,XL S,XL)
+0397 Stefan Rachoń:Franz von Suppe Uwertury 1967 (S,XL)
+0398 różni wykonawcy:W dzień Bożego Narodzenia 1967 (S,XL)
+0399 Leonard Bernstein:George Gershwin 1967 (S,XL)
+0400 Louis Armstrong:The Luis Armstrong Story vol. 1,XL
+0401,Louis Armstrong:The Luis Armstrong Story vol. 2,(S,XL)
+0407 Bohdan Łazuka:Życzenia dla pań 1967,XL
+0408 Tadeusz Wesołowski:Na Krakowskim Rynku 1967 (S,XL)
+0409 Adam Wiernik:Sobótka Świętojańska Misterium ludowe 1967,XL
+0411,Czesław Niemen:Dziwny jest ten świat 1967 (X,XL)
+0415 NOVI:Bossa Nova,XL
+0424 Anna German:Recital piosenek 1967 (S,XL)
+0426 różni wykonawcy:Morze nasze morze
+0428 Warszawskie Smyczki i inni wykonawcy:Niezapomniane przeboje Zygmunta Karasińskiego (1967,XL)
+0438 Polanie:Polanie 1967 (S,XL)
+0439 Andrzej Kurylewicz:Ten + Eight (,XL,SX)
+0440 różni wykonawcy:Niezapomniane przeboje Jerzego Petersburskiego,XL
+0447 Barbara Nieman:Pieśni i arie operetkowe,XL
+0452,Włodzimierz Nahorny Trio:Heart 1968,XL
+0463 Andrzej Stefański:Szymanowski,XL
+0466 Jerzy Połomski:Daj! 1968 (,SX,XL S,XL)
+0472,Danuta Rinn i Bogdan Czyżewski:Pamiętaj o mnie 1969 (S,XL)
+0479 Czerwone Gitary:Czerwone Gitary (3) 1968,XL
+0480 Wojciech Młynarski:Dziewczyny bądźcie dla nas dobre na wiosnę 1968,XL
+0482,Bułat Okudżawa Edmund Fetting Gustaw Lutkiewicz Bohdan Łazuka Wojciech Młynarski Sława Przybylska W. Siemion:Ballady Bułata Okudżawy,SX
+0489 Irena Santor:Zapamiętaj że to ja... 1968,XL
+0499 Chór i Orkiestra Polskiego Radia:Pieśni walki i pokoju 1968,XL
+0502,Orkiestra i Chór Państwowej Opery im. S. Moniuszki w Poznaniu:Opera Poznańska i jej soliści,XL
+0510 Irena Santor:Kolędy i pastorałki,SX
+0511,Old Timers Sandy Brown:Old Timers with Sandy Brown,XL
+0514 Chór i Orkiestra PR soliści:Pieśni Polski walczącej (1),XL
+0515 Chór i Orkiestra PR soliści:Pieśni Polski walczącej (2),XL
+0523 Poznańska Orkiestra Kameralna dyr.:Robert Satanowski:Polskie symfonie XVIII wieku (S,XL)
+0525 Mieczysław Fogg:Zapomniana piosenka 1969 (,SX S,XL)
+0528 Skaldowie:Cała jesteś w skowronkach 1968 (,XL S,XL)
+0536 Capella Bydgostiensis Pro Musica Antiqua:Jan Sebastian Bach Koncert Brandenburski BWV 1050 Potrójny koncert BWV 1044
+0537 różni wykonawcy:Kompozytorzy włoscy w Polsce (S,XL)
+0555 Jerzy Milian:Baazaar (,XL S,XL)
+0560 NiebieskoCzarni:Twarze 1969 (S,XL)
+0570 Andrzej Stefański:Ignacy Paderewski (,SX S,XL)
+0576 Czesław Niemen:Enigmatic 1969 (S,XL)
+0579 różni wykonawcy:New Faces in Polish Jazz JJ 69 (,XL S,XL)
+0580 Orkiestra z Chmielnej:Orkiestra Uliczna z Chmielnej 1969 (,XL S,XL)
+0581,różni wykonawcy:Niezapomniane przeboje Zygmunta Wiehlera (S,XL)
+0582,Chór i Orkiestra PR soliści dyr.:Stefan Rachoń:Offenbach Operetki w przekroju,XL
+0583 Edwin Kowalik:Recital Fortepianowy (S,XL)
+0584 Julitta Śledzińska:Old harpichord music 1969 (S,XL)
+0585 Hans Kann Rosario Marciano:Beethoven Komplet dzieł na cztery rece 1969 (S,XL)
+0586 Karol Teutsch:Górecki Baird Bacewicz Paciorkiewicz (S,XL)
+0587 Konstanty Andrzej Kulka:Antonio Vivaldi. Le Quattro Stagioni Cztery Pory Roku (,XL,SX S,XL)
+0588 Stanisław Wisłocki:Beethoven Overtures (S,XL)
+0589 Conchita Bautista:Conchita Bautista,SX
+0591,Jan Pietrzak:Zaganiany człowiek taki... 1970 (S,XL)
+0593 Anna German:Człowieczy los 1970 (S,XL)
+0595 różni wykonawcy:Wspomnienie o Leninie,XL
+0596 różni wykonawcy:Zaśpiewaj z nami IV Krajowy Zjazd ZMW (S,XL)
+0597 Skaldowie:Od wschodu do zachodu słońca 1970,SX
+0598 Maryla Rodowicz:Żyj mój świecie 1970 (S,XL)
+0599 Czerwone Gitary:Na fujarce 1970 (S,XL)
+0600 Mieczysław Święcicki:Żółty anioł romanse 1970 (S,XL)
+0601,Marek Grechuta:Marek Grechuta Anawa 1970 (,SX S,XL)
+0602,Wojciech Młynarski:Obiad rodzinny 1970 (S,XL)
+0635 różni wykonawcy:Mikrofon i Ekran. Opole '70 1970 (,XL S,XL)
+0637 Trubadurzy:Kochana 1970,SX
+0643 Irena Santor:Dla Ciebie śpiewa Irena Santor (,XL S,XL)
+0648 Andrzej Stefański:Beethoven Sonaty fortepianowe (S,XL)
+0652,Jerzy Połomski:Jerzy Połomski 1970 (S,XL)
+0653 Silna Grupa pod Wezwaniem:Silna Grupa Pod Wezwaniem 1970 (S,XL)
+0657 Novi Singers:Torpedo (,XL S,XL)
+0679 VIII Międzynarodowy Konkurs Pianistyczny F.Chopin Warszawa 1970,XL
+0699 Hagaw:Asocjacja Hagaw i Andrzej Rosiewicz 1970 (,XL S,XL)
+0703 Włodzimierz Nahorny:Jej portret 1973,SX
+0707 Love Affair:Everlasting Love Affair,XL
+0721,Breakout:Blues 1971,(S,XL)
+0733 Michał Urbaniak Group:Live recording 1971,(S,XL)
+0734 Czerwone Gitary:Spokój serca 1971,(S,XL)
+0741,Anna German:Wiatr mieszka w dzikich topolach 1971,(S,XL)
+0743 Anna German:Arie z opery „Tetyda na wyspie Skyros” 1971,(S,XL)
+0744 Mieczysław Kosz:Reminiscence 1971,(,SX S,XL)
+0745 Paradox:Drifting Feather 1971,(S,XL)
+0751,Irena Santor:Moja Warszawa 1972,(,XL S,XL)
+0755 Novi Singers:Novi sing Chopin 1971
+0756 Klan:Mrowisko 1971,(S,XL)
+0763 Halina CzernyStefańska:Beethoven sonaty (,XL S,XL)
+0767 Kapela Czerniakowska:Kapela Czerniakowska 1972,SX
+0777 Henryk Boukołowski:Kornel Makuszyński Przygody Koziołka Matołka część I i II 1971,SX
+0778 Mira Kubasińska i Breakout:Mira 1971,(S,XL)
+0789 Mieczysław Mazur:Rag Swing Time 1971,(,XL S,XL)
+0797 Jolanta Kubicka:Światło w lesie 1972,(S,XL)
+0802,Zdzisława Sośnicka:Zdzisława Sośnicka 1971,(,XL S,XL)
+0817 Wojciech Młynarski:Recital '71,1971,(S,XL)
+0832,Irena Santor:Z tobą na zawsze (,XL S,XL)
+0839 Tadeusz Woźniak Tadeusz Woźniak 1972,(S,XL)
+0840 Farida:Farida (S,XL)
+0841,Old Timers Sami Swoi Old Metropolitan Band High Society:Tribute to Armstrong 1972,(S,XL)
+0842,Old Timers:Hallo hold the line 1972,SX
+0846 różni wykonawcy:Opolskie wspomnienia,XL (S,XL)
+0849 różni wykonawcy:Takiemu to dobrze Przeboje Festiwali Piosenki Żołnierskiej 1972,(,SX S,XL)
+0858 Breakout:Karate 1972,(S,XL)
+0866 2,plus 1:Nowy wspaniały świat 1972,(S,XL)
+0881,NiebieskoCzarni:Naga 1,1972,(S,XL)
+0882,NiebieskoCzarni:Naga 2,1972,(S,XL)
+0887 Skaldowie:Wszystkim zakochanym 1973 (S,XL)
+0888 Skaldowie:Krywań Krywań 1973 (S,XL)
+0889/0890 Soliści oraz Orkiestra Symfoniczna i Chór Filharmonii Narodowej w Warszawie dyr. Andrzej Markowski:Krzysztof Penderecki Jutrznia Utrenja,SX
+0898 Henryk Boukołowski:Kornel Makuszyński Przygody Koziołka Matołka część III i część IV 1971,SX
+0900 Irena Santor:Witaj gwiazdko złota,SX
+0906 Jerzy Połomski:Nie zapomnisz nigdy 1972,(S,XL)
+0907 Jerzy Połomski:Kiedy znów zakwitną białe bzy 1972,(,XL S,XL)
+0924 Anna German:To chyba maj 1974 (S,XL)
+0934 Marek Grechuta:Droga za widnokres 1972,(S,XL)
+0942,Piotr Paleczny:Obrazki z wystawy (S,XL)
+0944 Nurt:Nurt 1973 (,XL S,XL)
+0947 Marek Grechuta:Droga za widnokres 1972,(,XL S,XL)
+0949 różni wykonawcy:Piosenki radzieckie 1973 (S,XL)
+0952,Zbigniew Namysłowski:Winobranie,SX
+0954 różni wykonawcy:Premiery Opole 73 (1) (S,XL)
+0955 różni wykonawcy:Premiery Opole 73 (2) (S,XL)
+0956 Stan Borys:Szukam przyjaciela (S,XL)
+0957 Jerzy Grunwald i En Face:Jerzy Grunwald En Face 1973 (S,XL)
+0958 różni wykonawcy:Sopot '73,XL
+0960 Janusz Laskowski:Janusz Laskowski 1973 (S,XL)
+0972,Wiesław Ochman:Polskie arie operowe,SX
+0975 Complesso Di Musica Antica Wroclaw:Barokowe koncerty religijne (S,XL)
+0984 różni wykonawcy:Dyskoteka 5 (S,XL)
+0988 różni wykonawcy:Złote pierścienie Kołobrzegu (S,XL)
+0990 różni wykonawcy:Premiery Opole 73 (3) (S,XL)
+0991,Polska Kapela Ludowa Feliksa Dzierżanowskiego:Krakowiaki i polonezy (S,XL)
+0992,Trubadurzy:Będziesz Ty 1973,SX
+0996 Andrzej Stefański:Beethoven 33 wariacje (S,XL)
+1000 Irena Santor:Jubileusz 1973 (S,XL)
+1001,Jerzy Połomski:Warszawa moja miłość 1974 (S,XL)
+1002,Teresa Tutinas:Teresa Tutinas 1973 (S,XL)
+1003 Homo Homini:Homo Homini 1973 (,SX S,XL)
+1004 Mira Kubasińska & Breakout:Ogień,SX
+1005 Reprezentacyjna Orkiestra Pomorskiego Okręgu Wojskowego dyr.:Kazimierz Hilla:Piastowski orzeł Marsze Ludowego Wojska Polskiego (S,XL)
+1009 Novi Singers:Rien ne va plus 1973 (S,XL)
+1010 Michał Urbaniak Constellation:In Concert 1973 (,SX S,XL)
+1012,Konstanty Andrzej Kulka:Violin Recital (S,XL)
+1013 Bemibem:Bemowe frazy 1974 (S,XL)
+1014 Andrzej i Eliza:Czas relaksu 1973 (S,XL)
+1015 Tadeusz Ross:Odpowiedz uśmiechem,XL
+1016 Józef Serafin:Józef Serafin Plays Organ Works by Jehan Alain (S,XL)
+1017 Maria Fołtyn:Sławni polscy śpiewacy vol. 1,1974 (S,XL)
+1018 Agnieszka Kossakowska:Gaiczek zielony Piosenki i tańce dla przedszkolaków (S,XL)
+1022,Kapela Czerniakowska:Tango Czerniakowskie 1974,SX
+1023 Joanna Rawik:Romantyczność 1974 (S,XL)
+1032,Zespół „Lachy”:Polski folklor muzyczny vol. 3,SX
+1041,Wanda Polańska (sopran):Najpiękniejsze arie z operetek i musicali
+1042,Agnieszka Kossakowska:Arie z operetek Lehara i Offenbacha (S,XL)
+1045 różni wykonawcy:Piosenki o Warszawie (S,XL)
+1047 Jerzy Połomski:W cichą noc 1974 (S,XL)
+1048 Jerzy Połomski:Bo z dziewczynami 1974 (S,XL)
+1051,Jan Ekier:Jan Ekier,SX
+1052,Bożena Betley (sopran) Jerzy Marchwiński:Stanisław Moniuszko Pieśni ze „Śpiewników domowych”,SX
+1067 Polska Kapela Ludowa Feliksa Dzierżanowskiego:Podkóweczki dajcie ognia,SX
+1069 Wojciech Karolak:Easy! 1974 (S,XL)
+1079 SPPT Chałturnik:SPPT Chałturnik 1974 (S,XL)
+1089 Anna Jantar:Tyle słońca w całym mieście 1974 (S,XL)
+1091,Krystyna Prońko:Krystyna Prońko (S,XL)
+1104 różni wykonawcy:Powracające melodyjki Przeboje XXXlecia (1),SX
+1105 różni wykonawcy:Czy mnie jeszcze pamiętasz Przeboje XXXlecia (2),SX
+1106 różni wykonawcy:Daj mi zachować wspomnienia Przeboje XXXlecia (3),SX
+1107 różni wykonawcy:Komu piosenkę Przeboje XXXlecia (4),SX
+1108 różni wykonawcy:Najpiękniejsza jest moja ojczyzna Przeboje XXXlecia (5) (S,XL)
+1109 różni wykonawcy:Premiery 1,Kołobrzeg '74 (S,XL)
+1110 różni wykonawcy:Premiery 2,Kołobrzeg '74 (S,XL)
+1111,różni wykonawcy:Niech żyje para młoda (S,XL)
+1112,różni wykonawcy:Sopot '74 (S,XL)
+1113 Jeffrey Swann:Plays Stravinsky Scriabin Debussy,SX
+1114 różni wykonawcy Piosenki radzieckie (S,XL)
+1120 Novi Singers:Five four three
+1125/6 różni wykonawcy:Grajcie dudy grajcie basy Polish Folk Music (S,XL)
+1131,różni wykonawcy:Opole '74 Premiery (S,XL)
+1138 Tomasz Stańko Tomasz Szukalski Edward Vesala Peter Warren:TWET,SX
+1140 Breakout:Kamienie 1974 (S,XL)
+1141,Jan Ptaszyn Wróblewski:Sprzedawcy glonów 1974 (S,XL)
+1142,SBB:SBB 1974 (S,XL)
+1147 Roman Jabłoński:Koncerty wiolonczelowe 1972,SX
+1157 Zespół Muzyki Cerkiewnej Warszawskiej Opery Kameralnej:The Choir of Orthodox Church Musicat the Warshaw Chamber OperaHouse Muzyka cerkiewna,SX
+1159 różni wykonawcy:„Lata ptaszek” „Księżniczka na ziarnku grochu” bajki muzyczne,SX
+1160 Tadeusz Woźniak:Tadeusz Woźniak 1974 (S,XL)
+1161,różni wykonawcy:Dyskoteka 7 (S,XL)
+1164 Państwowa Orkiestra Filharmonii Łódzkiej dyr.:Henryk Czyż:Ludwig van Beethoven V symfonia 1974,SX
+1166 Czerwone Gitary:Rytm Ziemi 1974 (S,XL)
+1167 różni wykonawcy:Przeboje z Niemieckiej Republiki Demokratycznej (S,XL)
+1173 różni wykonawcy artyści scen warszawskich Zespół instrumentalny dyr. Władysław Słowiński:Jerzy Ficowski Dom w którym śmieszy Wiersze dla dzieci,SX
+1179 Boston Light Operatic Society:Hair (Galt MacDermot),SX
+1180 różni wykonawcy:Jazz Jamboree '74 vol. 1,SX
+1181,różni wykonawcy:Jazz Jamboree '74 vol. 2,SX
+1186/7 Józef Serafin (organy):Józef Serafin plays in Leżajsk Cathedral J.S.Bach Organ Works 1974,SX
+1189 Wawele:Niebieskie dni 1974 (S,XL)
+1190 Czesław Gładkowski Krzysztof Zgraja:Alter ego,SX
+1191,Jerzy Godziszewski:Jerzy Godziszewski Plays Piano Works (S,XL) 1974
+1192,Czesław Niemen:Niemen Aerolit 1975,SX
+1193 kurs języka angielskiego:Mówimy po angielsku vol. 1,XL
+1194 kurs języka angielskiego:Mówimy po angielsku vol. 2,XL
+1195 kurs języka angielskiego:Mówimy po angielsku vol. 3,XL
+1196/0 kurs języka rosyjskiego:Mówimy po rosyjsku (S,XL)
+1201/3 kurs języka niemieckiego:Mówimy po niemiecku,XL
+1204 Maria Koterbska:Jubileusz (S,XL)
+1206 SBB:Nowy horyzont 1975,SX
+1207 Homo Homini:Homo Homini 2,1974,SX
+1208 Wanda Wiłkomirska:Augustyn Bloch,SX
+1210 Zdzisław Piernik (tuba):Tuba,SX
+1211,Grająca Tabakierka:Grająca Tabakierka,SX
+1212,2+1:Wyspa dzieci 1975,SX
+1213 różni wykonawcy:Dyskoteka Polskich Nagrań Dyskoteka 8,SX
+1214 Państwowy Zespół Ludowy Pieśni i Tańca „Mazowsze”:„Mazowsze” 25 lat,SX
+1215 Chór dziecięcy dyr. Romuald Miazga zespół instr. dyr. Jerzy Woźniak:Łączy nas piosenka piosenki różnych narodów,SX
+1216 różni wykonawcy:Za zdrowie pań,SX
+1217 różni wykonawcy:Opole '75 1975,SX (S,XL)
+1218 Adam Makowicz:Live Embers,SX
+1219 różni wykonawcy:Polskie Targi Estradowe Łódź '75,SX
+1220 Old Timers/Marianna Wróblewska:Meeting,SX
+1221,Spisek Sześciu:Complot of Six,SX
+1222,Zespół Pieśni i Tańca Północnej Grupy Wojsk Radzieckich:Zespół Północnych Grup Wojsk ZSRR,SX
+1223 różni wykonawcy:VIII Festiwal Pianistyki Polskiej Słupsk '74,SX
+1224 Eugen Indjic:Chopin Ballady,SX
+1225 Eugen Indjic:Chopin Sonaty,SX
+1226 Ryszard Bakst:Mendelssohn Pieśni bez słów,SX
+1227 różni wykonawcy:Dzisiaj jutro zawsze i inne piosenki Wojciecha Piętowskiego,SX
+1228 różni wykonawcy:Ernest Bryll Katarzyna Gaertner „...srebrne dzwony”,SX
+1229 różni wykonawcy:Maszerują przedszkolaki,SX
+1230 Zbigniew Namysłowski Quintet:Kujaviak Goes Funky 1975,SX
+1232,różni wykonawcy:Sowieckim braciom broni,SX
+1234 różni wykonawcy:Premiery Kołobrzeg '75,SX
+1235 Keith Emerson & The Nice:Keith Emerson and the Nice,SX
+1236 Atomic Rooster:Atomic Rooster,SX
+1237 Rare Bird:Rare Bird,SX
+1238 The Rattles:The Rattles,SX
+1239 Marsha Hunt:Marsha Hunt,SX
+1245 Danuta Rinn:Gdzie ci mężczyźni 1975,SX
+1246 General:Rockin' and rollin' 1974,SX
+1248 Zespół instrumentalny Mieczysława Janicza:„Umarł Maciek...” (polskie piosenki ludowe i popularne 2)
+1249 Zespół instrumentalny Mieczysława Janicza:„Ty pójdziesz górą” (polskie piosenki ludowe i popularne 3),SX
+1262,Czesław Niemen:Katharsis 1975,SX
+1264 Budka Suflera:Cień wielkiej góry 1975,SX
+1279 Ossian:Ossian 1975,SX
+1280 ABBA:Waterloo 1975,SX
+1281,Wiesław Ochman:Słynne arie operetkowe,SX
+1298 Kapela Czerniakowska:Bal u ciotki Marcinowej 1976,SX
+1300 Breakout:NOL 1976,SX
+1304 Norrie Paramor & The Midland Radio Orchestra:Norrie Paramor & The Midland Radio Orchestra,SX
+1310 IX Międzynarodowy Konkurs im.F.Chopina Warszawa 1975 Krystian Zimerman,SX
+1321,różni wykonawcy:Antoni Marianowicz Alicja w Krainie Czarów (baśń muzyczna),SX
+1322,różni wykonawcy:Polish Jazz 19461956 vol. 1,PostWar Dance Bands,SX 1975
+1323 Melomani:Polish Jazz 19461956 vol. 2,Golden Era of the „Melomani” Group,SX 1975
+1324 różni wykonawcy:Polish Jazz 19461956 vol. 3 From „Improvising Jazz” Series,SX 1976
+1325 różni wykonawcy:Polish Jazz 19461956 vol. 4 Early Polish Jazz Piano Players,SX 1976
+1327 Leonard Mróz:Arie operowe,SX
+1343 Homo Homini:Homo Homini 3 1975,SX
+1344 Daniel:Bezpańska miłość 1976,SX
+1345 SBB:Pamięć 1976,SX
+1346/1347 Kabaret Dudek:Upupa epops 1976,SX
+1348 Klaus Lenz Big Band:Klaus Lenz Big Band With Uschi Brüning And Klaus Nowodworski,SX
+1353 Sami Swoi:Ach! Jak przyjemnie,SX
+1354 różni wykonawcy:Królowa Zima Baśnie o Bolku i Lolku 1976,SX
+1355 ABBA:ABBA,SX
+1357 różni wykonawcy:Opole '76 Premiery,SX
+1360 Anna Jantar:Za każdy uśmiech 1975,SX
+1367 Orkiestra Symfoniczna Filharmonii Narodowej w Warszawie dyr. Witold Rowicki:Nikołaj RimskiKorsakow Szeherezada,SX
+1370 Orkiestra Symfoniczna Filharmonii Narodowej w Warszawie dyr. Witold Rowicki:Witold Lutosławski/Wojciech Kilar Livre pour orchestre/Krzesany 1976,SX
+1378 Procol Harum:Procol's Ninth 1975,SX
+1379 różni wykonawcy:Zapraszamy do Trójki przeboje radiowe 1975,SX
+1383 Czerwone Gitary:Port piratów 1976 (S,XL)
+1384 Locomotiv GT:Locomotiv GT in Warsaw,SX
+1392,Andrzej Stefański:Schumann Novelletten 1976,SX
+1395 Jolanta Kubicka:Za miłością idę 1976,SX
+1396 Zbigniew Wodecki:Zbigniew Wodecki 1976,SX
+1398 Budka Suflera:Przechodniem byłem między wami... 1976,SX
+1399 Orkiestra z Chmielnej:Wspomniałem ten dzień 1976,SX
+1400 różni wykonawcy:Janusz Kondratowicz i jego piosenki (S,XL)
+1410 różni wykonawcy:Józef Prutkowski Utwory dla moich przyjaciół,SX
+1411,Skaldowie:Szanujmy wspomnienia 1976
+1412,Skaldowie:Stworzenia świata część druga 1976
+1414 Extra Ball:Birthday,SX
+1417 Hanka Bielicka:Hanka Bielicka 1976,SX
+1419 Czesław Bartkowski:Drums Dream,SX
+1423 Eugene Istomin  Orkiestra Symfoniczna Filharmonii Narodowej dyr. Jerzy Semkow:Ludwig van Beethoven Koncert fortepianowy ESdur Op.73,SX
+1428 Halina Frąckowiak & Józef Skrzek SBB:Geira,SX
+1434 SBB:Ze słowem biegnę do ciebie 1977,SX
+1436 artyści scen warszawskich Zespół instr. kier. Mieczysław Janicz:O dwóch takich co ukradli księżyc Bajka muzyczna Krystyna Wodnicka (według Kornela Makuszyńskiego),SX
+1439 Jerzy Połomski:Z tobą świat nie ma wad 1977,SX
+1449 2,plus 1:Aktor 1977,SX
+1454 różni wykonawcy:Jazz Jamboree 76 vol. 1,SX
+1455 różni wykonawcy:Jazz Jamboree 76 vol. 2,SX
+1462,kurs języka niemieckiego:Deutsch mein neues hobby 1,(X)
+1463 kurs języka niemieckiego:Deutsch mein neues hobby 2,(X)
+1464 kurs języka niemieckiego:Deutsch mein neues hobby 3 (X)
+1465 kurs języka niemieckiego:Deutsch mein neues hobby 4 (X)
+1466 kurs języka niemieckiego:Deutsch mein neues hobby 5 (X)
+1470 różni artyści:Party Dance,SX
+1471,Livin' Blues:Livin' Blues Live,SX
+1474 Zygmunt Kęstowicz Hubert Antoszewski Stefan Pułtorak zespół instr. dyr. Witalis Raczkiewicz:Pora na Telesfora słuchowisko muzyczne,SX
+1479 Vistula River Brass Band:Entertainer,SX
+1486 różni artyści:Hits Of BBC And Alaska Records 2,SX
+1493 Zbigniew Namysłowski:Zbigniew Namysłowski,SX
+1509 Arp Life:Jumbo jet,SX
+1514 Orkiestra i Chór Filharmonii Narodowej dyr.:Wojciech Kilar:Witold Rowicki Kościelec 1909/Przygrywka i kolęda/Bogurodzica,SX
+1544 Violetta Villas:Nie ma miłości bez zazdrości 1977,SX
+1550 Guido Manusardi Quartet FogarsiCsik Trio Yosuke Yamashita Trio:Jazz Jamboree 77 vol. 1,SX
+1554 Anna Jantar:Zawsze gdzieś czeka ktoś 1977,SX
+1555 Jerzy Połomski:Tempus fugit 1977,SX
+1570/1,N. AE.:Idée fixe 1978,SX
+1573 Gawęda:Gawęda
+1574 2,plus 1:Teatr na drodze 1978,SX
+1583 Marianna Wróblewska:Feelings,SX
+1585 Afric Simone:Afric Simone,SX
+1611,różni wykonawcy:Jazz Jamboree 78,SX
+1612,Anna German:Anna German 1978,SX
+1618 Centralna Orkiestra Reprezentacyjna Wojska Polskiego:Marsze historyczne,SX
+1625 Krystyna Prońko:Deszcz w Cisnej,SX
+1637 Kapela Czerniakowska:Zabawa u Jana 1978,SX
+1641,artyści scen warszawskich zespół instr. i wokalny kier.:Ryszard Sielicki:„Tomcio Paluch” Bajka muzyczna Antoni Marianowicz (według braci Grimm),SX
+1642,artyści scen warszawskich zespół instr. i wokalny kier.:Ryszard Sielicki:„Stoliczku nakryj się” / „Tańczące krasnoludki” Bajki muzyczne Antoni Marianowicz (według braci Grimm),SX
+1644 różni wykonawcy:Popularne arie i duety operetkowe,SX
+1647 Bud Powell:Earl Bud' Powell,SX
+1650 różni wykonawcy:Popularne arie i duety operetkowe,SX
+1653 różni wykonawcy:Niezapomniane arie operowe,SX
+1661,Lucyna Arska:Na cygańską nutę 1978,SX
+1662/8 Instytut Lingwistyki Stosowanej UW:American english for Poles (Kurs Audiowizualny Część 1) 1978,SX
+1696 Chorus & Disco Company:Discoland 1978,SX
+167174 Soliści oraz Orkiestra i Chór PRiTV w Krakowie dyr. Jan Krenz:Stanisław Moniuszko Straszny dwór,SX
+1680 Irena Jarocka:Być narzeczoną twą,SX
+1710 Elżbieta Wojnowska:Życie moje,SX
+1738 różni wykonawcy:Zapraszamy do Trójki (2) 1979,SX
+1739 Geoff Love and His Orchestra:Tangos with Love,SX
+1757 Geoff Love`s Orchestra:13 Famous Disco Hits,SX
+1758 Second Life:Why,SX
+1759 Czesław Niemen:The Best of Niemen 1979,SX
+1761,General:Heart of Rock,SX
+1762,Czerwone Gitary:The Best of Czerwone Gitary 1979,SX
+1766 Breakout:ZOL (Zidentyfikowany Obiekt Latający) 1979,SX
+1767 różni wykonawcy:Treny (fragmenty przedstawienia Adama Hanuszkiewicza w Teatrze Narodowym) muzyka:Andrzej Bieżan,SX
+1769 Cymande:The Message 1979,SX
+1771,Old Timers William 'Wild Bill' Davison:Old Timers with Wild Bill Davison,SX
+1777 Osjan:Księga chmur 1979,SX
+1781,Śląsk:The Polish Song and Dance Ensemble „Ślask” 25 lat,SX
+1789 Homo Homini:Homo Homini 4 1979,SX
+1796 Krzysztof Sadowski:Swing Party,SX
+1803 Chór Dziecięcy dyr.:Romuald Miazga zespół instr. dyr.:Jerzy Woźniak:Tańce i zabawy ludowe dla przedszkolaków,SX
+1805 Teresa ZylisGara:Arie operowe kompozytorów słowiańskich,SX
+1806 Zdzisław Piernik:Tuba,SX
+1811,różni wykonawcy:Opole 79 Przeboje 35lecia
+1818 Orkiestra Smyczkowa pod dyr. Leszka Bogdanowicza:Melodie na dobranoc,SX
+1833 Jolanta Kubicka:Jolanta Kubicka 1979,SX
+1851/2,Zdzisława Sośnicka:Odcienie Samotności 1980,SX
+1854 Salvo:Solo tu 1979,SX
+1861,Artur Rubinstein:Fryderyk Chopin Koncert fortepianowy FMoll,SX
+1869 różni wykonawcy:Zapraszamy do Trójki vol. 3,SX
+1870 Drupi:Drupi,SX
+1873/4 kurs języka angielskiego:Angielski dla początkujących Have a Nice Trip,SX
+1876 Czesław Niemen:Postscriptum 1980,SX
+1877 Pod Budą:Grupa Muzyczna „Pod Budą” Kraków 1981,SX
+1892,Budka Suflera:Ona przyszła prosto z chmur 1980,SX
+1913 Violetta Villas:Dawne przeboje 1980,SX
+1940 Anna German Irena Santor Jerzy Połomski Adam Zwierz:Najpiękniejsze kolędy Pójdźmy wszyscy do stajenki,SX
+1927 różni wykonawcy:Kiedyśmy wracali 1980,SX
+1932,Anna Jantar:The Best of Anna Jantar 1980,SX
+1934 Exodus:The Most Beautiful Day 1980,SX
+1941,Sun Ship:Follow Us,SX
+1947 Orkiestra PRiTV dyr.:Ryszard Dudek Jan Pruszak:Benedykt Konowalski „Polish Dances”,SX
+1962,Krystyna Giżowska:Jestem jak inne 1980,SX
+1966 SBB:Memento z banalnym tryptykiem 1980,SX
+1970 Geoff Love Country Singers The:Country Roads,SX
+1977 Janusz Laskowski:Kolorowe jarmarki 1980,SX
+1983 różni wykonawcy:Jazz Jamboree '80 1980,SX
+1986 Eleni:Ty jak niebo ja jak obłok 1980,SX
+1963/4 różni wykonawcy:Powróćmy jak za dawnych lat 1982,SX
+1992,Elżbieta Adamiak:Elżbieta Adamiak 1980,SX
+2000 Jerzy Połomski:Szeptem malowane 1980,SX
+2053 Dang Thai Son plays Chopin,SX
+2055 B X Międzynarodowy Konkurs im. F.Chopina Warszawa 1980,SX
+2069/70 Jerzy Maksymiuk:Johann Sebastian Bach Koncerty Branderburskie Polska Orkietra Kameralna,SX
+2107 Eleni:Lovers 1982,SX
+2108 Exodus:Supernova 1983,SX
+2109 Lombard:Śmierć dyskotece! 1983,SX
+2111,Babsztyl:Szykuj się bracie 1982,SX
+2114 Perfect:Perfect 1981,SX
+2118 Krzysztof Cugowski:Podwójna twarz 1983,SX
+2119 Andrzej Zaucha:Wszystkie stworzenia duże i małe 1983,SX
+2120 Stanisław Wenglorz:Dziś dotarłem do rozstajnych dróg 1983,SX
+2122,Irena Santor:CDN 1981,SX
+2125 Centralny Zespół Artystyczny Wojska Polskiego,SX
+2127 Andrzej Stefański:Johann Strauss II Walce Transkrypcje na fortepian,SX
+2154 Orkiestra Polskiego Radia i Telewizji w Łodzi pod dyr. Henryka Debicha:Paraphrases Transcriptions,SX
+2155 Anna German:Niezapomniane przeboje,SX
+2160 RSC:RSC 1984,SX
+2163 różni wykonawcy:Do ciebie Jasnogórska Pani przybywam,SX
+2164 Kombi:Nowy rozdział 1984,SX
+2168 Eleni:Morze snu 1984,SX
+2169 różni wykonawcy:Opowieść o praprasłoniu (Bajka muzyczna tekst Elżbieta Bussold według Rudyarda Kiplinga),SX
+2171,Oddział Zamknięty:Oddział Zamknięty 1983,SX
+2180 Budka Suflera:19741984 1984,SX
+2189 Completorium:The Purpure Bossa 1984,SX
+2190 Banda i Wanda:Banda i Wanda 1984,SX
+2191,Kaczki z Nowej Paczki:Greps 1984,SX
+2192,Gang Marcela:Tyle złamanych serc 1984,SX
+2193 Ewa Bem:Loves The Beatles 1984,SX
+2196 Anna Chodakowska:Msza Wędrującego (według Edwarda Stachury),SX
+2201,różni wykonawcy:Przeboje 40lecia (1) 1984,SX
+2202,różni wykonawcy:Przeboje 40lecia (2) 1984,SX
+2203 różni wykonawcy:Przeboje 40lecia (3) 1984,SX
+2204 różni wykonawcy:Przeboje 40lecia (4) 1984,SX
+2205 różni wykonawcy:Przeboje 40lecia (5) 1984,SX
+2206 Zespół Muzyki Cerkiewnej Warszawskiej Opery Kameralnej:Muzyka cerkiewna,SX
+2208 Marta Sosińska Piotr Paleczny Janusz Olejniczak Krystian Zimerman Ewa Pobłocka:Muzycy 40lecia vol. 2
+2217 różni wykonawcy:Top '84,SX
+2219/20 różni wykonawcy:Music from Poland at Midem `85,SX
+2221,Maanam:Mental Cut 1984,SX
+2222A Krystyna Janda Marek Grechuta:W malinowym chruśniaku,SX
+2222B Krystyna Janda:Dancing,SX
+2223 Asocjacja Hagaw:Please,SX
+2231,Czerwone Gitary:To właśnie my Z archiwum polskiego beatu vol. 5,SX
+2232,Czerwone Gitary:Czerwone Gitary (2) Z archiwum polskiego beatu vol. 6,SX
+2233 Czerwone Gitary:Czerwone Gitary (3) Z archiwum polskiego beatu vol. 7,SX
+2235 Jan Kowalski:Inside Outside Songs,SX
+2236 Dżem:Cegła 1985,SX
+2241,Mieczysław Wojnicki:Najpiękniejsze arie operetkowe,SX
+2250 Tomasz Szukalski:Tina Kamila 1985,SX
+2251,Leszek Winder:Blues Forever 1985,SX
+2253 Stanisław Wenglorz:Niedokończona rozmowa 1986,SX
+2259/60 Klaus Schulze Rainer Bloss Dziękuję Poland Live ’83 1985,SX[5]
+2263 Kombi:Kombi 4 1985,SX
+2264 Maryla Rodowicz:Gejsza nocy 1986,SX
+2266 różni wykonawcy:Szał by night 1986,SX
+2267/8 różni wykonawcy:Piosenki z tamtych lat,SX
+2271,Orkiestra Reprezentacyjna Marynarki Wojennej:Bałtyckie spotkania,SX
+2284 Hanna Banaszak:Hanna Banaszak 1986,SX
+2285 Elżbieta Adamiak:Do Wenecji stąd dalej co dzień 1986,SX
+2286 Lady Pank:LP 3 1986,SX
+2290 różni artyści:Spotkanie bajek (Bajka muzyczna) 1988,SX
+2291/2,różni wykonawcy:Music from Poland at Midem `86 1986,SX
+2293 Budka Suflera:Giganci tańczą 1986,SX
+2294 Mr Z'oob:To tylko ja 1986,SX
+2303 Zbigniew Namysłowski:Air Condition/Follow your kite 1986,SX
+2307 różni wykonawcy:WarszawaMoskwie MoskwaWarszawie,SX
+2319/20 Krzysztof Penderecki:Polskie Requiem,SX
+2322,Danuta Błażejczyk:Danuta Błażejczyk,SX
+2323 Super Duo:Głuche krokodyle 1986,SX
+2334 Wojciech Kilar:Exodus /Angelus 1986,SX
+2335 TSA:Heavy Metal World (ang.) 1986,SX
+2338 Natalia Kukulska:Natalia 1986,SX
+2341,Goombay Dance Band:Sun of Jamaica,SX
+2343 Collegium Musicae Sacrae:Kolędy i pastorałki,SX
+2345 Jacek Kaczmarski:Krzyk 1989,SX
+2346 Halina Frąckowiak:Ogród Luizy 1983,SX
+2362,Kameralny Chór Męski Sofia:Starobułgarskie śpiewy cerkiewne,SX
+2365 Ewa Bem:Be a Man,SX
+2374 The Louis Armstrong Story Vol. 1,SX
+2375 The Louis Armstrong Story Vol. 2,SX
+2376 Stan d'Art:Undergrajdoł 1987,SX
+2378 Maryla Rodowicz:Święty spokój 1982,SX
+2379 Wały Jagiellońskie:Etykieta zastępcza 1986,SX
+2388 Bank:Jestem panem świata,SX
+2391,Breakout:Na drugim brzegu tęczy Z archiwum polskiego beatu vol. 16,SX
+2404 Wojciech Kamiński:Open piano,SX
+2417 Bill Haley & The Comets:Rock And Roll 1986,SX
+2435 Herreys:Grand Prix 1986,SX
+2437 Tadeusz Nalepa:Sen szaleńca 1987,SX
+2442,RendezVous:RendezVous 1987,SX
+2443 Electronic Division:Electronic Division 1986,SX
+2444 Ewa i Jerzy Włodarek:Kantry 1987,SX
+2449 Piotr Szczepanik:Największe przeboje,SX
+2451,Halina Frąckowiak:Halina Frąckowiak 1987,SX
+2452,różni wykonawcy:Młynarski śpiewany przez przyjaciół 1986,SX
+2473 Kapela Warszawska & Stasiek Wielanek:Znakiem tego... 1987,SX
+2476 Grzegorz Markowski:Kolorowy telewizor 1987,SX
+2492,Violetta Villas:Największe przeboje 1987,SX
+2496 Marek Grechuta:Wiosna ach to ty 1987,SX
+2500 Wojciech Młynarski:Młynarski w Ateneum Recital '86 1987,SX
+2503 Alicja Majewska:Piosenki Korcza i Młynarskiego 1987,SX
+2505/6 różni wykonawcy:Czy nas jeszcze pamiętasz Old Rock Meeting 1987,SX
+2515 Michał Bajor:Live 1987,SX
+2516 Eleni:Miłość jak wino 1987,SX
+2517 Shakin' Stevens:Greatest hits 1987,SX
+2523 Zdzisława Sośnicka:Aleja Gwiazd 1987,SX
+2525 Young Power:Young Power 1987,SX
+2529 Klan:Mrowisko Z archiwum polskiego beatu vol. 21,1987,SX
+2538 Krzak:Ostatni koncert 1987,SX
+2542,Natalia Kukulska:Bajki Natalki 1987,SX
+2543 Bajm:Nagie skały 1988,SX
+2544 Maryla Rodowicz:Polska Madonna 1987,SX
+2556 Korba:Motywacje 1987,SX
+2560 Stanisław Sojka:Stanisław Sojka,SX
+2561,Dżem:Lunatycy czyli tzw. przeboje całkiem Live 1988,SX
+2562,Leszek Winder Bezdomne Psy:Bezdomne Psy 1988,SX
+2565 Andrzej Zaucha:Andrzej Zaucha 1989,SX
+2566 Beata Molak:Wolni 1989,SX
+2569 Nocna Zmiana Bluesa:The Blues Nightshift 1987,SX
+2573 John Mayall:Live in Concert 1988,SX
+2590/1,ABBA:The Best of 1987,SX
+2592,Jerzy Połomski:Jak ten czas leci 1988,SX
+2593 Mechanik:Duży Mechanik 1988,SX
+2594 Kayah:Kayah 1988,SX
+2595/6 Budka Suflera:Ratujmy co się da!! 1988,SX
+2598 Tadeusz Nalepa:Numero Uno 1988,SX
+2599 Klaus Mit Foch:Mordoplan 1988,SX
+2600 Martyna Jakubowicz:Wschodnia wioska 1988,SX
+2604/5 Elżbieta Wojnowska:Songi Brechta 1988,SX
+2606 Stasiek Wielanek i Kapela Warszawska:Lwowskich przedmieść piosenki,SX
+2608 The Fotoness:When I Die 1988,SX
+2609 Osjan:Rytuał dźwięku i ciszy 1988,SX
+2612,Kora Püdelsi:Bela Pupa 1988,SX
+2614 Lonstar Band:Różne kolory 1989,SX
+2615 Grażyna Auguścik:Sunrise Sunset 1988,SX
+2616/8 NiebieskoCzarni:25 lat NiebieskoCzarnych Przeżyjmy to jeszcze raz 1988,SX
+2619 Lady Pank:Tacy sami 1989,SX
+2620 Deuter:1987 1988,SX
+2621,After Blues:International Blues Family After Blues! 1988,SX
+2623 Wojciech Gąssowski:Party 1988,SX
+2625 Kapitan Nemo:Jeszcze tylko chwila 1989,SX
+2626 Władysław Komendarek:Promenada 1989,SX
+2628 Jan Kobuszewski:Leśny Rajd bajka wierszem 1989,SX
+2630 Urszula:Czwarty raz 1988,SX
+2633 Jacek Różański:Życie to nie teatr. Piosenki Edwarda Stachury 1989,SX
+2634 Renata Kretówna:Bal milionerów 1988,SX
+2649 Krzysztof Daukszewicz:Pralnia 1988,SX
+2650 Voo Voo:Małe Wu Wu 1988,SX
+2651,Recydywa:Równowaga strachu1988,SX
+2652,różni wykonawcy:Jonasz Kofta i Jego piosenki 1988,SX
+2656 Pink Floyd:Dark Side of the Moon 1988,SX
+2657 Double Fantasy:Universal Ave 1988,SX
+2658 Urszula Sipińska:Nie zapomniałam... 1988,SX
+2661,Stanisław Sojka:Radioaktywny 1989,SX
+2665 Alex Band:Hits of the World 1988,SX
+2669 różni wykonawcy:Przeboje Opole '88 1988,SX
+2670/1,Sting:Nothing Like the Sun 1988,SX
+2672,Marino Marini:Marino Marini jakiego pamiętamy 1988,SX
+2673 różni wykonawcy:Tango apaszowskie 1989,SX
+2674 T.Love:Wychowanie 1989,SX
+2678 Pick Up Formation:To nie jest jazz 1989,SX
+2679 Poerox:Systemy,SX
+2684 różni wykonawcy:Hebanowa baśń 1989,SX
+2688 Prince And The Revolution:Purple Rain 1988,SX
+2689 Madonna:True Blue 1988,SX
+2691,Linda Ronstadt:What's new 1988,SX
+2692,Foreigner:Inside Information 1988,SX
+2693 Bruce Springsteen:Tunnel of Love 1988,SX
+2694 Michael Jackson:Bad,SX
+2696 Orkiestra Symfoniczna PRiTV w Krakowie WOSPRiTV w Katowicach dyr.:Antoni Wit Jerzy Maksymiuk:Krzysztof Meyer,SX
+2701,Mireille Mathieu:Mireille Mathieu,SX
+2704 Leonard Cohen:I'm Your Man 1989,SX
+2707 Obywatel GC:Tak! Tak! 1988,SX
+2708 Kim Wilde:Close 1988,SX
+2724 Danuta Rinn:Polska baba 1989,SX
+2725 Kwartet Jorgi:Kwartet Jorgi vol. 1,1988,SX
+2727 Krzysztof Antkowiak:Zakazany owoc 1989,SX
+2729 Marek Grechuta:Krajobraz pełen nadziei 1989,SX
+2742,Kapitan Nemo:In a Little While 1989,SX
+2744 Mechanik:Szuja 1989,SX
+2747 Texel:Texel 1989,SX
+2749 Walk Away:Walk Away 1989,SX
+2755 Tie Break:Tie Break 1989,SX
+2756 Grażyna Łobaszewska:Brzydcy 1989,SX
+2757 Skaldowie:Nie domykajmy drzwi 1989,SX
+2759/61,Tina Turner:Tina Live in Europe 1989,SX
+2767 Józef Skrzek:Live 1989,SX
+2774 Krystyna Prońko:Firma „Ja i Ty”,SX
+2777/9 różni wykonawcy:Jarocin '88 1989,SX
+2780 Kombi:Tabu 1989,SX
+2782,różni wykonawcy:Bajlandia Piosenki dla małych i dużych 1989,SX
+2787 Stasiek Wielanek i Kapela Warszawska:Piosenki Legionów Polskich 1989,SX
+2789 Ireneusz Dudek:Nowa płyta 1989,SX
+2797 Young Power:Nam Myo Ho Renge Kyo 1989,SX
+2798 Acid Drinkers:Are You a Rebel? 1990,SX
+2801,Voo Voo:Z środy na czwartek 1990,SX
+2802,różni wykonawcy:Fasola Przeboje z Telewizyjnego Teatrzyku Piosenek dla dzieci 1989,SX
+2803 różni wykonawcy:Ratuszowa legenda,SX
+2804 Marianna Wróblewska:Wieczór samotnych pań 1990,SX
+2805/6 Hanka Ordonówna:Ja śpiewam piosenki... 1989,SX
+2807 Tomasz Szukalski:Borżomski Wąwóz Body and soul 1989,SX
+2808 Anna German:Powracające słowa vol. 1,1990,SX
+2809 Anna German:Powracające słowa vol. 2,1990,SX
+2810 Sztywny Pal Azji:Szukam nowego siebie 1989,SX
+2811,Alibabki:Wesołych Świąt 1989,SX
+2812,Turbo:Epidemie 1990,SX
+2813 One Million Bulgarians:Blues? 1990,SX
+2817 Janusz Gniatkowski:Z piosenką przez świat 1990,SX
+2818 Korba:Sto papierów 1989,SX
+2820 Ryszard Sygitowicz:Nikt nie woła 1989,SX
+2822,Lech Janerka:Piosenki 1989,SX
+2823 Grzegorz Skawiński:Skawiński 1989,SX
+2824 Mieczysław Wojnicki:Chciałbym wrócić do tych dni,SX
+2829 Urszula Dudziak Walk Away:Magic Lady 1989,SX
+2830 Stevie Wonder:Characters,SX
+2833 Michel Urbaniak:Cinemode 1990,SX
+2835 Madonna:Like a Prayer 1989,SX
+2836 Tanita Tikaram:Ancient heart 1989,SX
+2841,Zbigniew Zapasiewicz:Wiersze poetów polskich,SX
+2843 Nocna Zmiana Bluesa:Zróbmy to razem 1990,SX
+2851,Obywatel GC:Stan strachu 1989,SX
+2865 różni wykonawcy:Mrągowo '89,SX
+2872,Hanna Rek:Mam szczęście do wszystkiego,SX
+2874 Ziyo:Witajcie w teatrze cieni 1990,SX
+2876 Danuta Stankiewicz:Wernisaż 1990,SX
+2882,Wojciech Młynarski:Jeszcze w zielone gramy 1990,SX
+2884 Phil Collins:...But Seriously,SX
+2885 Przemysław Gintrowski:Raport z oblężonego miasta 1990,SX
+2886 różni wykonawcy:Fryderyk Chopin International Chopin Piano Competition vol. 1,Golden twelve,SX
+2887 różni wykonawcy:Fryderyk Chopin International Chopin Piano Competition vol. 2,Golden twelve,SX
+2888 różni wykonawcy:Fryderyk Chopin International Chopin Piano Competition vol. 3 Golden twelve,SX
+2889 różni wykonawcy:Fryderyk Chopin International Chopin Piano Competition vol. 4 Golden twelve,SX
+2890 różni wykonawcy:Fryderyk Chopin International Chopin Piano Competition vol. 5 Golden twelve,SX
+2892,Bon Jovi:New Jersey 1990,SX
+2893 Eric Clapton:Journeyman,SX
+2894 Cher:Heart of Stone 1990,SX
+2895 King Diamond:Conspiracy 1990,SX
+2896 Slayer:Live Undead 1990,SX
+2899 różni wykonawcy:Fryderyk Chopin Najlepsze wykonania mazurków,SX
+2900 różni wykonawcy:Fryderyk Chopin Najlepsze wykonania mazurków vol. 2,SX
+2901,różni wykonawcy:Fryderyk Chopin Najlepsze wykonania mazurków vol. 3,SX
+2902,Madonna:I'm Breathless 1990,SX
+2903 Krzysztof Daukszewicz:Bieda 1990,SX
+2904 Led Zeppelin:Led Zeppelin 1990,SX
+2906 Led Zeppelin:Led Zeppelin IV 1990,SX
+2910 Big Cyc:Z partyjnym pozdrowieniem 1990,SX
+2911,Holloee Poloy:The Big Beat 1990,SX
+2913 Dragon:Fallen Angel 1990,SX
+2914 Non Iron:Candles And Rain 1990,SX
+2915 Moskwa:Życie niezwykłe 1990,SX
+2916 Józef Skrzek:Wracam 1990,SX
+2918 Acid Drinkers:Are You a Rebel? 1991,SX
+2919 Walk Away:Live 1990,SX
+2926 Kombi:15 lat 1990,SX
+2927 Paul Simon:The Rhytm of the Saints,SX
+2928 ZZ Top:Recycler 1990,SX
+2929 różni wykonawcy:Nasenki 1990,SX
+2930 Magda Fronczewska:Wow! 1990,SX
+2931,różni wykonawcy:Stars on Trash 1990,SX
+2932,Sepultura:Beneath the Remains,SX
+2936 Cydhie Genoside:Ashes to Ashes Only Rosie Forever 1990,SX
+2937 Irena Santor:Biegnie czas 1990,SX
+2941,Monika Borys:Ściana i groch 1990,SX
+2942,Bajm:Biała armia 1990,SX
+2951,Collage:Baśnie 1990,SX
+2954 Wolf Spider:Hue of Evil 1991,SX
+2955 Gary Moore:Still Got the Blues 1991,SX
+2956 Paula Abdul:Shut Up and Dance,SX
+2965 Ireneusz Dudek:Bands of 80's 1991,SX
+2966/7 The Doors:The Best of The Doors 1991,SX
+2972,Carreras Domingo Pavarotti:In concert 1991,SX
+2977 Skaldowie:Greatest Hits Vol. 1,1991,SX
+2976 Genesis:Genesis 1991,SX
+2979 Hammer:Terror 1991,SX
+2988 Janusz Gniatkowski:Tylko serce nie uśnie 1991,SX
+2990 Skaldowie:Greatest Hits Vol. 2,1991,SX
+2995 Ada Rusowicz:Gwiazdy mocnego uderzenia,SX
+2996 Krzysztof Klenczon:Muzyka z tamtej strony dnia vol. 1,1991,SX
+2997 Krzysztof Klenczon:Muzyka z tamtej strony dnia vol. 2,1991,SX
+2998 Mike Oldfield:Tubular Bells,SX
+2999 Mike Oldfield:Heaven's Open,SX
+3000 Roxy Music:Avalon,SX
+3001,Pobieda:To jeszcze nie koniec 1991,SX
+3003 różni wykonawcy:Złote lata polskiego beatu 195961,SX
+3004 różni wykonawcy:Złote lata polskiego beatu 1962,SX
+3005 różni wykonawcy:Złote lata polskiego beatu 1963,SX
+3006 różni wykonawcy:Złote lata polskiego beatu 1964,SX
+3007 Stan Getz:Stan Getz in Warsaw,SX
+3008 Varius Manx:The Beginning,SX
+3009 Proletaryat:Proletaryat II 1991,SX
+3010 Big Cyc:Nie wierzcie elektrykom 1991,SX
+3011,Tadeusz Nalepa:Absolutnie 1991,SX
+3013/4 Eleni:24 Golden Greats 1991,SX
+3021/2,Elton John:The Very Best of Elton John,SX
+3025 Simple Minds:Real Life 1991,SX
+3026 Peter Gabriel:Shaking the Tree,SX
+3028 Stefan Witas:W kręgu wspomnień 1991,SX
+3029 Stan Borys:The Best of Stan Borys 1991,SX
+3030 Włodzimierz Nahorny:Obejmij mnie,SX
+3032,Kaczki z Nowej Paczki:Kto widział Dziubdziuba,SX
+3036 Ewa Kuklińska:My Style,SX
+3037 Ryszard Karczykowski:Laudate Dominum omnes gentes 1992,SX
+3038 Bułat Okudżawa:Życzenia dla przyjaciół,SX
+3039/40 różni wykonawcy:Magic Box czyli tajemnica Melośmiacza Musical,SX
+3041/2,różni wykonawcy:Zooabecadło Nasz zwierzyniec na wesoło,SX
+3044 Zayazd:Wypij do dna! 1991,SX
+3045 różni wykonawcy:Sweet Love Song,SX
+3046 Marlena Drozdowska:Dziewczyna glina,SX
+3047 różni wykonawcy:Złote lata polskiego beatu 1965 vol. 1,SX
+3048 różni wykonawcy:Złote lata polskiego beatu 1965 vol. 2,SX
+3049 różni wykonawcy:Złote lata polskiego beatu 1966 vol. 1,SX
+3050 różni wykonawcy:Złote lata polskiego beatu 1966 vol. 2,SX
+3051,różni wykonawcy:Złote lata polskiego beatu 1967 vol. 1,SX
+3052,różni wykonawcy:Złote lata polskiego beatu 1967 vol. 2,SX
+3053 różni wykonawcy:Złote lata polskiego beatu 1968 vol. 1,SX
+3054 różni wykonawcy:Złote lata polskiego beatu 1968 vol. 2,SX
+3055 Dire Straits:On Every Street 1991,SX
+3056 Bee Gees:High Civilization,SX
+3057 muzyka z filmu Twin Peaks:Sountrack from Twin Peaks. Music composed by Angelo Badalamenti,SX
+3058 Rod Stewart:Vagabond Heart 1991,SX
+3059 różni wykonawcy:Moniuszko Pieśni,SX
+3060 różni wykonawcy:Moniuszko Pieśni,SX
+3061,Tajfuny:Gwiazdy mocnego uderzenia 1991,SX
+3062,Dire Straits:Making Movies,SX
+3065/6 różni wykonawcy:Kolędy w Teatrze Stu,SX
+3067 Maryla Rodowicz:Absolutnie nic 1991,SX
+3068 różni wykonawcy:Złote lata polskiego beatu 1969 vol. 1,SX
+3069 różni wykonawcy:Złote lata polskiego beatu 1969 vol. 2,SX
+4001,różni artyści:Krzysztof Penderecki 2006,SX
+4002,różni artyści:Polish Funk The unique selection of rare grooves from Poland of the 70's 2007,SX
+4003 różni artyści:Polish Funk 2,The unique selection of rare grooves from Poland of the 60 & 70's 2007,SX
+4004 różni artyści:Polish Funk 3 The unique selection of rare grooves from Poland of the 70's 2008,SX
+4005 różni artyści:Polish Funk 4 The unique selection of rare grooves from Poland of the 60 & 70 & 80's 2008,SX
+4006 różni artyści:Why Not Samba Hot cocktail of tropical grooves from Cold War Poland 2008,SX
+4007 różni artyści:We pay respekt 2009,SX
+4008 Jarosław Śmietana:Autumn suite,SX
+4009 różni wykonawcy:Warszawski Rock and Roll lat 60.,SX
+4010 różni wykonawcy:Off Season. Jazz & grooves from Poland 196689,SX
+4011,różni wykonawcy:Strange Weekend 2013,SX
+
+Źródło:pl.wikipedia.org/Polskie_Nagrania_"Muza"
