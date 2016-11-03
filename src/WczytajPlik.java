@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class WczytajPlik {
 	public static void main(String[] args) throws FileNotFoundException{
 		
-		File f = new File("Plik.txt");
+		File f = new File("src//Polskie Nagrania Muza.txt");
 		Scanner in = new Scanner(f);
 		
 		int i;

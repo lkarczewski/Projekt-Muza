@@ -3,13 +3,16 @@ import java.util.Scanner;
 public class MuzaTest {
 	public static void main(String [] args){
 		
+		StworzBaze op1 = new StworzBaze();
+		WyswietlBaze op2 = new WyswietlBaze();
+		
 		Scanner wejscie = new Scanner(System.in);
 		int opcja=0;
 		
 		do{
 			System.out.println("POLSKIE NAGRANIA 'MUZA' - BAZA P£YT 1956-1991");
 			System.out.println("---------------------------------------------");
-			System.out.println("1 - Utwórz bazê danych z pliku");
+			System.out.println("1 - Utwórz bazê danych");
 			System.out.println("2 - Wyœwietl ca³¹ bazê danych");
 			System.out.println("3 - Usuñ bazê danych");
 			System.out.println("4 - Wyszukaj wykonawcê");
@@ -22,10 +25,10 @@ public class MuzaTest {
 			
 			switch(opcja){
 			case 1:
-				System.out.println("Utworzono bazê danych");
+				op1.Create();
 				break;
 			case 2:
-				System.out.println("Usuniêto bazê danych");
+				op2.Show();
 				break;
 			case 3:
 				System.out.println("Wybra³eœ opcjê 3");
