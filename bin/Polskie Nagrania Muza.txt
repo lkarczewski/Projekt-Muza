@@ -1,4 +1,4 @@
-﻿0001,Witold Rowicki,Ludwik van Beethoven VII Symfonia,1956,XL
+0001,Witold Rowicki,Ludwik van Beethoven VII Symfonia,1956,XL
 0002,Piotr Czajkowski,IV Symfonia,1966,XL					
 0003,Witold Rowicki,Brahms I Symfonia,1956,XL
 0004,Bohdan Wodiczko,Szostakowicz X Symfonia,1956,XL

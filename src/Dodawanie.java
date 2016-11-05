@@ -1,6 +1,9 @@
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
 
-public class StworzBaze {
+public class Dodawanie {
 	
 	public static final String DRIVER = "org.sqlite.JDBC";
     public static final String DB_URL = "jdbc:sqlite:Baza.db";
@@ -8,9 +11,8 @@ public class StworzBaze {
     private static Connection conn;
     private static Statement stmt;
     
-    void Create(){
-    	
-    	//dodaje klase JDBC
+	void Add(int id, String wykonawca, String album, int rok){
+		
 	    try {
             Class.forName(DRIVER);
         } catch (ClassNotFoundException e) {
@@ -18,25 +20,22 @@ public class StworzBaze {
             e.printStackTrace();
         }
 	    
-        //nawiazuje polaczenie z baza danych
-        try {
+	    try {
             conn = DriverManager.getConnection(DB_URL);
             stmt = conn.createStatement();
         } catch (SQLException e) {
-            System.err.println("Problem z otwarciem poÅ‚Ä…czenia");
+            System.err.println("Problem z otwarciem po³¹czenia");
             e.printStackTrace();
         }
-       
-        //tworze tabele
-        String createPlyta="CREATE TABLE IF NOT EXISTS plyta(id INTEGER(4), wykonawca VARCHAR(50), album VARCHAR(50), rok INTEGER(4));";
-        try {
-            stmt.execute(createPlyta);
-
-        } catch (SQLException e) {
-            System.err.println("Blad przy tworzeniu tabeli");
+		
+    	String sql;
+    	try{
+    		sql="INSERT INTO plyta(id,wykonawca,album,rok) VALUES ('"+id+"',"+wykonawca+",'"+album+"','"+rok+");";
+    		stmt.execute(sql);
+    	} catch (SQLException e){
+    		System.err.println("Blad przy dodawaniu rekordu");
             e.printStackTrace();
-        } 
-        System.out.println("Utworzono bazê danych");
+    	}
     }
 
- }
+}
