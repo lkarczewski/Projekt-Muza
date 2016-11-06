@@ -48,3 +48,5 @@ Temporary Items
 
 #JAVA class files
 *.class
+#Database files
+*.db
