@@ -38,5 +38,4 @@ public class StworzBaze {
         } 
         System.out.println("Utworzono bazê danych");
     }
-
  }

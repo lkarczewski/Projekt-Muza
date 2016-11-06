@@ -24,7 +24,7 @@ public class UsunBaze {
             System.err.println("Problem z otwarciem połączenia");
             e.printStackTrace();
         }
-        
+    
         System.out.println("Usuwam tabele...");
         String deletePlyta="DROP TABLE plyta;";
         try {

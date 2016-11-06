@@ -33,8 +33,7 @@ public class Filtrowanie {
             System.err.println("Problem z otwarciem po³¹czenia");
             e.printStackTrace();
         }
-		
-	    System.out.println("Filtrujê rekordy...");
+	    
 	    Dodawanie dodaj = new Dodawanie();
     	File Plik = new File("src//Polskie Nagrania Muza.txt");
     	
@@ -53,7 +52,6 @@ public class Filtrowanie {
     	{
     		e.printStackTrace();
     	}
-    	System.out.println("Dodano odfiltrowane dane z pliku");
 	}
 
 	public static Statement getStmt() {

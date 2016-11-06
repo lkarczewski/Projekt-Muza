@@ -203,8 +203,8 @@
 0236;Warszawscy Stompersi;New Orleans Stompers;1964;XL
 0237;Jan Krenz;Witold Lutoslawski Utwory symfoniczne;1964;XL
 0238;Jan Krenz;Witold Lutoslawski Utwory symfoniczne kompozytorow polskich;1964;XL
-0239;Rozni wykonawcy;Jazz Jamboree 64;vol 1;1964;XL
-0240;Rozni wykonawcy;Jazz Jamboree 64;vol 2;1964;XL
+0239;Rozni wykonawcy;Jazz Jamboree 64 vol 1;1964;XL
+0240;Rozni wykonawcy;Jazz Jamboree 64 vol 2;1964;XL
 0241;Andrzej Kurylewicz;Polish Radio Big Band;1964;XL
 0242;Rozni wykonawcy;International Festival of Song Sopot Polish Hits;1964;XL
 0243;Stefania Woytowicz;Arie dawnych mistrzow;1964;XL
@@ -245,8 +245,8 @@
 0282;Lasalle String Quartet;Kwartety smyczkowe;1966;SX
 0283;Joachim Grubich;Organ Recital;1966;SX
 0284;Anna German;Tanczace Eurydyki;1966;XL
-0285;Rozni wykonawcy;Jazz Jamboree 65;vol 1;1966;XL
-0286;Rozni wykonawcy;Jazz Jamboree 65;vol 2;1966;XL
+0285;Rozni wykonawcy;Jazz Jamboree 65 vol 1;1966;XL
+0286;Rozni wykonawcy;Jazz Jamboree 65 vol 2;1966;XL
 0287;Rozni wykonawcy;Sonaty;1966;XL
 0288;Robert Satanowski;Jakub Golabek Trzy symfonie;1966;XL
 0289;Zbigniew Chwedczuk;Jozef Ziedler Nieszpory;1966;XL
@@ -295,8 +295,8 @@
 0339;Rozni wykonawcy;Piosenki Agnieszki Osieckiej;1966;XL
 0340;Stanislaw Grzesiuk;Piosenki warszawskiej ulicy;1967;XL
 0341;Jarema Stepowski;Szemrane tango;1966;SX
-0342;Rozni wykonawcy;Jazz Jamboree 66;vol 1;1967;XL
-0343;Rozni wykonawcy;Jazz Jamboree 66;vol 2;1967;XL
+0342;Rozni wykonawcy;Jazz Jamboree 66 vol 1;1967;XL
+0343;Rozni wykonawcy;Jazz Jamboree 66 vol 2;1967;XL
 0345;Jan Kiepura;Arie operowe;1966;XL
 0346;Jan Kiepura;Piesni i piosenki filmowe;1966;SX
 0347;Zespol Piesni i Tanca "slask";„slask” Christmas Carols Przy stole wigilijnym;1967;SX
@@ -529,8 +529,8 @@
 1167;Rozni wykonawcy;Przeboje z Niemieckiej Republiki Demokratycznej;1974;SX
 1173;Jerzy Ficowski;Dom w ktorym smieszy Wiersze dla dzieci;1974;SX
 1179;Boston Light Operatic Society;Hair (Galt MacDermot);1974;SX
-1180;Rozni wykonawcy;Jazz Jamboree 74;vol 1;1974;SX
-1181;Rozni wykonawcy;Jazz Jamboree 74;vol 2;1974;SX
+1180;Rozni wykonawcy;Jazz Jamboree 74 vol 1;1974;SX
+1181;Rozni wykonawcy;Jazz Jamboree 74 vol 2;1974;SX
 1186;Jozef Serafin (organy);Jozef Serafin plays in Lezajsk Cathedral J.S.Bach Organ Works;1974;SX
 1189;Wawele;Niebieskie dni;1974;SX
 1190;Czeslaw Gladkowski Krzysztof Zgraja;Alter ego;1974;SX
@@ -625,8 +625,8 @@
 1434;SBB;Ze slowem biegne do ciebie;1977;SX
 1439;Jerzy Polomski;Z toba swiat nie ma wad;1977;SX
 1449;2 plus 1;Aktor;1977;SX
-1454;Rozni wykonawcy;Jazz Jamboree 76;vol 1;1976;SX
-1455;Rozni wykonawcy;Jazz Jamboree 76;vol 2;1976;SX
+1454;Rozni wykonawcy;Jazz Jamboree 76 vol 1;1976;SX
+1455;Rozni wykonawcy;Jazz Jamboree 76 vol 2;1976;SX
 1462;kurs jezyka niemieckiego;Deutsch mein neues hobby 1;1976;XL
 1463;kurs jezyka niemieckiego;Deutsch mein neues hobby 2;1976;XL
 1464;kurs jezyka niemieckiego;Deutsch mein neues hobby 3;1976;XL
@@ -641,7 +641,7 @@
 1509;Arp Life;Jumbo jet;1977;SX
 1514;Orkiestra i Chor Filharmonii Narodowej;Koscielec/1909/Przygrywka i koleda/Bogurodzica;1977;SX
 1544;Violetta Villas;Nie ma milosci bez zazdrosci;1977;SX
-1550;Rozni wykonawcy;Jazz Jamboree 77;vol 1;1977;SX
+1550;Rozni wykonawcy;Jazz Jamboree 77 vol 1;1977;SX
 1554;Anna Jantar;Zawsze gdzies czeka ktos;1977;SX
 1555;Jerzy Polomski;Tempus fugit;1977;SX
 1570;N. AE.;Idée fixe;1978;SX

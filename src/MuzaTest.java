@@ -33,8 +33,11 @@ public class MuzaTest {
 			
 			switch(opcja){
 			case 1:
+				System.out.println("Tworzê bazê danych...");
 				op1.Create();
+				System.out.println("Filtrujê rekordy...");
 				op1a.Filter();
+				System.out.println("Dodajê rekordy...");
 				op1b.Add(id,wykonawca,album,rok);
 				break;
 			case 2:

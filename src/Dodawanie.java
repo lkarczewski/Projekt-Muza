@@ -33,7 +33,6 @@ public class Dodawanie {
             e.printStackTrace();
         }
 		
-	    System.out.println("Dodajê rekordy...");
     	String sql;
     	try{
     		sql="INSERT INTO plyta(id,wykonawca,album,rok) VALUES ('"+id+"','"+wykonawca+"','"+album+"','"+rok+"');";
@@ -42,6 +41,7 @@ public class Dodawanie {
     		System.err.println("Blad przy dodawaniu rekordu");
             e.printStackTrace();
     	}
+    	System.out.println("Dodano odfiltrowane dane z pliku");
     }
 
 }
