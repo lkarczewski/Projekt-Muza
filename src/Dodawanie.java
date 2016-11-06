@@ -41,7 +41,6 @@ public class Dodawanie {
     		System.err.println("Blad przy dodawaniu rekordu");
             e.printStackTrace();
     	}
-    	System.out.println("Dodano odfiltrowane dane z pliku");
     }
 
 }

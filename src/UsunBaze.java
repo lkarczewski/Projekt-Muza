@@ -25,7 +25,6 @@ public class UsunBaze {
             e.printStackTrace();
         }
     
-        System.out.println("Usuwam tabele...");
         String deletePlyta="DROP TABLE plyta;";
         try {
             stmt.execute(deletePlyta);

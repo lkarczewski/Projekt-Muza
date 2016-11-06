@@ -6,16 +6,16 @@ public class MuzaTest {
 		
 		StworzBaze op1 = new StworzBaze();
 		Filtrowanie op1a = new Filtrowanie();
-		Dodawanie op1b = new Dodawanie();
+		//Dodawanie op1b = new Dodawanie();
 		Wyswietl op2 = new Wyswietl();
 		UsunBaze op3 = new UsunBaze();
 		
 		Scanner wejscie = new Scanner(System.in);
 		int opcja=0;
-		int id = 0;
+		/*int id = 0;
 		String wykonawca = null;
 		String album = null ;
-		int rok = 0;
+		int rok = 0;*/
 		
 		do{
 			System.out.println("POLSKIE NAGRANIA 'MUZA' - BAZA P£YT 1956-1991");
@@ -35,15 +35,18 @@ public class MuzaTest {
 			case 1:
 				System.out.println("Tworzê bazê danych...");
 				op1.Create();
-				System.out.println("Filtrujê rekordy...");
-				op1a.Filter();
 				System.out.println("Dodajê rekordy...");
-				op1b.Add(id,wykonawca,album,rok);
+				op1a.Filter();
+				//System.out.println("Dodajê rekordy...");
+				//op1b.Add(id,wykonawca,album,rok);
+				System.out.println("Dodano odfiltrowane dane z pliku");
 				break;
 			case 2:
+				System.out.println("Wyœwietlam tabele...");
 				op2.Show();
 				break;
 			case 3:
+				System.out.println("Usuwam tabele...");
 				op3.Delete();
 				break;
 			case 4:
