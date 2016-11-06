@@ -6,20 +6,16 @@ public class MuzaTest {
 		
 		StworzBaze op1 = new StworzBaze();
 		Filtrowanie op1a = new Filtrowanie();
-		//Dodawanie op1b = new Dodawanie();
 		Wyswietl op2 = new Wyswietl();
 		UsunBaze op3 = new UsunBaze();
 		
 		Scanner wejscie = new Scanner(System.in);
 		int opcja=0;
-		/*int id = 0;
-		String wykonawca = null;
-		String album = null ;
-		int rok = 0;*/
 		
 		do{
-			System.out.println("POLSKIE NAGRANIA 'MUZA' - BAZA P£YT 1956-1991");
-			System.out.println("---------------------------------------------");
+			System.out.println("POLSKIE NAGRANIA 'MUZA' - BAZA P£YT WINYLOWYCH 1956-1991");
+			System.out.println("		© £ukasz Karczewski, 2016				");
+			System.out.println("--------------------------------------------------------");
 			System.out.println("1 - Utwórz bazê danych");
 			System.out.println("2 - Wyœwietl ca³¹ bazê danych");
 			System.out.println("3 - Usuñ tabele");
@@ -27,7 +23,9 @@ public class MuzaTest {
 			System.out.println("5 - Wyszukaj album");
 			System.out.println("6 - Wyœwietl wszystkie p³yty z danego roku");
 			System.out.println("7 - WyjdŸ");
-			System.out.println("---------------------------------------------");
+			System.out.println("---------------------------------------------------------");
+			System.out.println("Ÿród³o: pl.wikipedia.org/Polskie_Nagrania_Muza");
+			System.out.println("---------------------------------------------------------");
 			System.out.println("WprowadŸ liczbê aby wybraæ opcjê:");
 			opcja=wejscie.nextInt();
 			
@@ -37,8 +35,6 @@ public class MuzaTest {
 				op1.Create();
 				System.out.println("Dodajê rekordy...");
 				op1a.Filter();
-				//System.out.println("Dodajê rekordy...");
-				//op1b.Add(id,wykonawca,album,rok);
 				System.out.println("Dodano odfiltrowane dane z pliku");
 				break;
 			case 2:
