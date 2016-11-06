@@ -1,11 +1,13 @@
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.Scanner;
-import java.util.StringTokenizer;
 
 public class Filtrowanie {
 	
@@ -26,7 +28,7 @@ public class Filtrowanie {
 	    
 	    try {
             conn = DriverManager.getConnection(DB_URL);
-            setStmt(conn.createStatement());
+            stmt = conn.createStatement();
         } catch (SQLException e) {
             System.err.println("Problem z otwarciem po³¹czenia");
             e.printStackTrace();
@@ -34,32 +36,22 @@ public class Filtrowanie {
 		
 	    Dodawanie dodaj = new Dodawanie();
     	File Plik = new File("src//Polskie Nagrania Muza.txt");
-    	Scanner odczyt = new Scanner(Plik);
     	
-    	StringTokenizer token;
-        String[] tab = new String[50];
-        int i;
+    	FileInputStream fstream = new FileInputStream(Plik);
+    	BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
     	
-    	while(odczyt.hasNextLine()){
-    		i=0;
-    		token = new StringTokenizer(odczyt.nextLine(),";");
-    		while(token.hasMoreElements()){
-    			tab[i]=token.nextToken();
-    			i++;
+    	String strLine;
+    	try
+    	{
+    		while((strLine = br.readLine()) != null){
+    			String[] result = strLine.split(";",-1);
+    			dodaj.Add(Integer.parseInt(result[0]),result[1],result[2],Integer.parseInt(result[3]));
     		}
-    		i=0;
-    		dodaj.Add(Integer.parseInt(tab[0]),tab[1],tab[2],Integer.parseInt(tab[3]));
     	}
-    	odczyt.close();   
-      	System.out.println("Dodano odfiltrowane dane z pliku");
-    }
-
-	public static Statement getStmt() {
-		return stmt;
+    	catch(IOException e)
+    	{
+    		e.printStackTrace();
+    	}
+    	System.out.println("Dodano odfiltrowane dane z pliku");
 	}
-
-	public static void setStmt(Statement stmt) {
-		Filtrowanie.stmt = stmt;
-	}
-
 }
