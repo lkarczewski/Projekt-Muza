@@ -34,6 +34,7 @@ public class Filtrowanie {
             e.printStackTrace();
         }
 		
+	    System.out.println("Filtrujê rekordy...");
 	    Dodawanie dodaj = new Dodawanie();
     	File Plik = new File("src//Polskie Nagrania Muza.txt");
     	

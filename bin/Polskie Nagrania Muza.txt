@@ -127,7 +127,7 @@
 0147;Jerzy Semkow;Niezapomniane karty oper Moniuszki;1962;XL
 0148;Ignacy Friedman;Wielcy polscy artysci graja Beethowena;1962;XL
 0149;Witold Rowicki;Szymanowski Stabat Mater;1962;XL
-0150;Wielka Orkiestra Symfoniczna PR dyr.;Jan Krenz;Wagner Liszt R. Strauss;1962;SX
+0150;Wielka Orkiestra Symfoniczna PR;Wagner Liszt R. Strauss;1962;SX
 0151;Radu Aldulescu Carlo Zecchi;Beethoven Muzyka kameralna;1962;XL
 0152;Rozni wykonawcy;De Falla Enescu Contantinescu;1962;XL
 0153;Stefan Ruha;Czajkowski Koncert Skrzypcowy;1962;XL
@@ -151,9 +151,9 @@
 0179;Wanda Wilkomirska;Mieczyslaw Karlowicz;1962;XL
 0180;Feliks Dzierzanowski;Znaszli swoj kraj?;1962;XL
 0181;Abraham Samuel Rettig;Z albumu piesni zydowskich;1964;XL
-0182;slask;Ñslaskî The Polish Song and Dance Ensemble vol 1;1964;SX
-0183;slask Ñslaskî The Polish Song and Dance Ensemble vol 2;1964;SX
-0184;Alina Bolechowska (sopran) Chor Meski przy Kosciele sw. Jakuba dyr. Zdzislaw Woüniak Feliks Raczkowski Henryk Olton (organy);Boze Narodzenie w Polsce;1962;SX
+0182;Slask;ÑSlaskî The Polish Song and Dance Ensemble vol 1;1964;SX
+0183;Slask;ÑSlaskî The Polish Song and Dance Ensemble vol 2;1964;SX
+0184;Alina Bolechowska;Boze Narodzenie w Polsce;1962;SX
 0185;Andrzej Hiolski;Slynne arie operowe;1964;SX
 0186;Andrzej Kurylewicz Quintet;Go Right;1964;XL
 0187;Mieczyslaw Fogg;Mieczyslaw Fogg spiewa piosenki swojej mlodosci;1960;XL
@@ -161,8 +161,8 @@
 0189;Mazowsze;ÑMazowszeî The Polish Song and Dance Ensemble vol 4;1963;SX
 0190;Mazowsze;ÑMazowszeî "Mazowsze" spiewa koledy;1963;SX
 0191;Karol Teutsch;Muzyka wloskiego baroku;1963;SX
-0192;Rozni wykonawcy;Jazz Jamboree 63;vol 1;1963;XL
-0193;Rozni wykonawcy;Jazz Jamboree 63;vol 2;1963;XL
+0192;Rozni wykonawcy;Jazz Jamboree 63 vol 1;1963;XL
+0193;Rozni wykonawcy;Jazz Jamboree 63 vol 2;1963;XL
 0194;Robert Satanowski;Jan Wanski Dwie symfonie;1963;XL
 0196;Barbara HesseBukowska;Paderewski Rozycki;1963;XL
 0198;Zdzislaw Gorzynski;Johann Strauss Krol walca;1962;SX
