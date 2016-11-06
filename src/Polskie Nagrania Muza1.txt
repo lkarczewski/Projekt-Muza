@@ -1,3 +1,0 @@
-0001;WitoldRowicki;LudwikvanBeethovenVIISymfonia;1956;XL
-0002;PiotrCzajkowski;IVSymfonia;1966;XXL
-0003;WitoldRowicki;BrahmsISymfonia;1956;XS
