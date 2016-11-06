@@ -40,13 +40,13 @@ public class MuzaTest {
 				op2.Show();
 				break;
 			case 3:
-				System.out.println("Wybra³eœ opcjê 3");
+				System.out.println("Podaj wykonawcê");
 				break;
 			case 4:
-				System.out.println("Wybra³eœ opcjê 4");
+				System.out.println("Podaj nazwê albumu");
 				break;
 			case 5:
-				System.out.println("Wybra³eœ opcjê 5");
+				System.out.println("Podaj rok");
 				break;
 			case 6:
 				System.out.println("Wybra³eœ opcjê 6");

@@ -26,7 +26,7 @@ public class Filtrowanie {
 	    
 	    try {
             conn = DriverManager.getConnection(DB_URL);
-            stmt = conn.createStatement();
+            setStmt(conn.createStatement());
         } catch (SQLException e) {
             System.err.println("Problem z otwarciem po³¹czenia");
             e.printStackTrace();
@@ -37,9 +37,8 @@ public class Filtrowanie {
     	Scanner odczyt = new Scanner(Plik);
     	
     	StringTokenizer token;
-    	String[] tab = new String[40];
-    	int i;
-    	//int j=0;
+        String[] tab = new String[50];
+        int i;
     	
     	while(odczyt.hasNextLine()){
     		i=0;
@@ -49,11 +48,18 @@ public class Filtrowanie {
     			i++;
     		}
     		i=0;
-    		//j++;
     		dodaj.Add(Integer.parseInt(tab[0]),tab[1],tab[2],Integer.parseInt(tab[3]));
     	}
     	odczyt.close();   
       	System.out.println("Dodano odfiltrowane dane z pliku");
     }
+
+	public static Statement getStmt() {
+		return stmt;
+	}
+
+	public static void setStmt(Statement stmt) {
+		Filtrowanie.stmt = stmt;
+	}
 
 }

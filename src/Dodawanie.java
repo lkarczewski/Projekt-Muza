@@ -11,6 +11,11 @@ public class Dodawanie {
     private static Connection conn;
     private static Statement stmt;
     
+    int id = 0;
+	String wykonawca = null;
+	String album = null;
+	int rok = 0;
+    
 	void Add(int id, String wykonawca, String album, int rok){
 		
 	    try {
@@ -30,7 +35,7 @@ public class Dodawanie {
 		
     	String sql;
     	try{
-    		sql="INSERT INTO plyta(id,wykonawca,album,rok) VALUES ('"+id+"',"+wykonawca+",'"+album+"','"+rok+");";
+    		sql="INSERT INTO plyta(id,wykonawca,album,rok) VALUES ('"+id+"','"+wykonawca+"','"+album+"','"+rok+"');";
     		stmt.execute(sql);
     	} catch (SQLException e){
     		System.err.println("Blad przy dodawaniu rekordu");
