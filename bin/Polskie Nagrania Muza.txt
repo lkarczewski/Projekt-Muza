@@ -1,5 +1,5 @@
 0001;Witold Rowicki;Ludwik van Beethoven VII Symfonia;1956;XL
-0002;Piotr Czajkowski;IV Symfonia;1966;XL					
+0002;Piotr Czajkowski;IV Symfonia;1966;XL
 0003;Witold Rowicki;Brahms I Symfonia;1956;XL
 0004;Bohdan Wodiczko;Szostakowicz X Symfonia;1956;XL
 0005;Witold Rowicki;Czajkowski V Symfonia;1956;XL
@@ -15,55 +15,55 @@
 0015;Rozni wykonawcy;Moniuszko Straszny dwor;1960;XL
 0019;Walerian Bierdiajew;Stanislaw Moniuszko Halka;1960;XL
 0022;Mircea Basarab;Honegger III Symfonia Liturgiczna;1960;XL
-0023;Slawomir zerdzicki;Moniuszko Sonety Krymskie;1960;XL
+0023;Slawomir Zerdzicki;Moniuszko Sonety Krymskie;1960;XL
 0024;Grzegorz Fitelberg;Karlowicz Moniuszko;1960;XL
 0025;Grzegorz Fitelberg;Karlowicz Noskowski Moniuszko Stefani;1961;XL
 0026;Eugenia Uminska;Szymanowski Koncerty skrzypcowe;1960;XL
 0027;Walerian Bierdiajew;Czajkowski Symfonia bmoll Patetyczna;1960;SX
 0028;Halina Czerny-Stefanska;Recital fortepianowy;1960;XL
 0029;Halina Czerny-Stefanska;Fryderyk Chopin Koncert fortepianowy emoll;1961;XL
-0030;Henryk Sztompka;Chopin Dziela wszystkie Mazurki vol. 1;1961;XL
-0031;Henryk Sztompka;Chopin Dziela wszystkie Mazurki vol. 2;1961;XL
-0032;Henryk Sztompka;Chopin Dziela wszystkie Mazurki vol. 3;1961;XL
+0030;Henryk Sztompka;Chopin Dziela wszystkie Mazurki vol 1;1961;XL
+0031;Henryk Sztompka;Chopin Dziela wszystkie Mazurki vol 2;1961;XL
+0032;Henryk Sztompka;Chopin Dziela wszystkie Mazurki vol 3;1961;XL
 0033;Rozni wykonawcy;Sonaty;1960;XL
 0034;Wladyslaw Szpilman Tadeusz Wronski;Brahms Sonaty skrzypcowe;1961;XL
 0035;Wladyslaw Szpilman Tadeusz Wronski;Muzyka kameralna;1961;XL
 0036;Kwartet Smyczkowy im. Borodina;Kwartety smyczkowe;1961;XL
-0037;swiatoslaw Richter;Chopin Szymanowski Szostakowicz;1961;XL
-0038;Henryk Sztompka;Chopin Dziela wszystkie Mazurki vol. 4;1961;XL
-0039;artysci scen warszawskich;Leon Schiller Pastoralka;1961;XL
+0037;Swiatoslaw Richter;Chopin Szymanowski Szostakowicz;1961;XL
+0038;Henryk Sztompka;Chopin Dziela wszystkie Mazurki vol 4;1961;XL
+0039;Artysci Scen Warszawskich;Leon Schiller Pastoralka;1961;XL
 0040;Rozni wykonawcy;III MKS im. Wieniawskiego 57;1961;XL
 0041;Rozni wykonawcy;III MKS im. Wieniawskiego 57;1961;XL
 0042;Rozni wykonawcy;III MKS im. Wieniawskiego 57;1961;XL
 0043;Rozni wykonawcy;Schubert Piekna mlynarka;1961;XL
 0044;Rozni wykonawcy;III MKS im. Wieniawskiego 57;1961;XL
 0045;Rozni wykonawcy;III MKS im. Wieniawskiego 57;1961;XL
-0046;B≈ôetislav Bakala;Dworzak Symfonia "Z nowego swiata";1961;XL
+0046;B¯etislav Bakala;Dworzak Symfonia "Z nowego swiata";1961;XL
 0047;Rozni wykonawcy;Chopin Dziela wszystkie Piesni op. 74;1961;XL
 0048;Orkiestra Symfoniczna Filharmonii Narodowej;Fryderyk Chopin Koncert fortepianowy Nr 2 Fmoll op.21;1961;XL
 0049;Roman Totenberg;Bach Koncerty skrzypcowe;1961;XL
 0050;Roman Totenberg;Beethoven Koncert skrzypcowy;1961;XL
 0051;Roman Totenberg;Wieniawski Szymanowski Koncerty skrzypcowe;1961;XL
 0052;Orkiestra Symfoniczna Filharmonii Narodowej;Szostakowicz Symfonia nr 5;1961;XL
-0053;swiatoslaw Richter;Mozart Schumann;1961;XL
-0054;swiatoslaw Richter;Robert Schumann;1961;XL
-0055;swiatoslaw Richter;Prokofiew Rachmaninow;1961;XL
-0056;swiatoslaw Richter;Rachmaninow;1961;XL
-0057;Halina Czerny-Stefanska;Chopin Dziela wszystkie Polonezy vol. 1;1961;SX
-0058;Halina Czerny-Stefanska;Chopin Dziela wszystkie Polonezy vol. 2;1961;XL
+0053;Swiatoslaw Richter;Mozart Schumann;1961;XL
+0054;Swiatoslaw Richter;Robert Schumann;1961;XL
+0055;Swiatoslaw Richter;Prokofiew Rachmaninow;1961;XL
+0056;Swiatoslaw Richter;Rachmaninow;1961;XL
+0057;Halina Czerny-Stefanska;Chopin Dziela wszystkie Polonezy vol 1;1961;SX
+0058;Halina Czerny-Stefanska;Chopin Dziela wszystkie Polonezy vol 2;1961;XL
 0059;Jan Ekier;Chopin Dziela wszystkie Sonaty;1961;SX
 0060;Halina Czerny-Stefanska;Chopin Dziela wszystkie Piano concerto nr 1 in eminor op. 11;1961;SX
 0061;Jan Ekier;Chopin Dziela wszystkie Ballady;1961;SX
 0062;Halina Czerny-Stefanska;Chopin Dziela wszystkie Preludia op. 28;1961;SX
-0063;Boleslaw Woytowicz;Chopin Dziela wszystkie Etiudy vol. 1;1961;SX
-0064;Boleslaw Woytowicz;Chopin Dziela wszystkie Etiudy vol. 2;1961;SX
+0063;Boleslaw Woytowicz;Chopin Dziela wszystkie Etiudy vol 1;1961;SX
+0064;Boleslaw Woytowicz;Chopin Dziela wszystkie Etiudy vol 2;1961;SX
 0065;Rozni wykonawcy;J.S. Bach Koncerty fortepianowe i kantaty;1961;XL
 0066;Stefania Woytowicz;Piesni;1961;XL
-0067;Jan Krenz Szostakowicz de Falla Chaczaturian;1961;SX
+0067;Jan Krenz;Szostakowicz de Falla Chaczaturian;1961;SX
 0068;Regina Smendzianka;Fryderyk Chopin "Walce Valses";1961;SX
 0069;Orkiestra Symfoniczna Filharmonii Narodowej;Fryderyk Chopin "Piano Concerto No. 2;1961;SX
-0070;Zbigniew Drzewiecki Henryk Sztompka;Chopin Dziela wszystkie Nokturny vol. 1;1961;SX
-0071;Jan Ekier;Chopin Dziela wszystkie Nokturny vol. 2;1961;SX
+0070;Zbigniew Drzewiecki Henryk Sztompka;Chopin Dziela wszystkie Nokturny vol 1;1961;SX
+0071;Jan Ekier;Chopin Dziela wszystkie Nokturny vol 2;1961;SX
 0072;Witold Rowicki;Lutoslawski Serocki Baird;1961;SX
 0073;Stefania Woytowicz Andrzej Bachleda;Chopin Dziela wszystkie Piesni op. 74;1961;SX
 0074;Lidia Grychtolowna;Chopin Dziela wszystkie Scherza;1961;SX
@@ -77,16 +77,16 @@
 0082;Helmut Koch;Brahms Niemieckie requiem;1961;XL
 0084;Helmut Koch;Heandel Mesjasz;1961;SX
 0089;Helmut Koch;Haydn Pory roku;1961;XL
-0092;Henryk Sztompka;Chopin Dziela wszystkie Mazurki wszystkie vol. 1;1961;SX
-0093;Henryk Sztompka;Chopin Dziela wszystkie Mazurki wszystkie vol. 2;1961;SX
-0094;Henryk Sztompka;Chopin Dziela wszystkie Mazurki wszystkie vol. 3;1961;SX
-0095;Henryk Sztompka;Chopin Dziela wszystkie Mazurki wszystkie vol. 4;1961;SX
+0092;Henryk Sztompka;Chopin Dziela wszystkie Mazurki wszystkie vol 1;1961;SX
+0093;Henryk Sztompka;Chopin Dziela wszystkie Mazurki wszystkie vol 2;1961;SX
+0094;Henryk Sztompka;Chopin Dziela wszystkie Mazurki wszystkie vol 3;1961;SX
+0095;Henryk Sztompka;Chopin Dziela wszystkie Mazurki wszystkie vol 4;1961;SX
 0096;Agnes Giebel;Bach Kantaty;1961;XL
 0097;Ryszard Bakst;Ignacy Jan Paderewski Utwory fortepianowe;1961;XL
 0098;Halina Czerny-Stefanska;Recital chopinowski;1961;XL
 0099;Stefania Woytowicz;spiewa najpiekniejsze partie operowe;1961;XL
 0100;Musicae Antiquae Collegium Varsoviense;Ze skarbnicy muzycznej polskiego tysiaclecia;1961;XL
-0101;Orkiestra Symfoniczna Filharmonii Narodowej;Felix Mendelssohn Sen nocy letniej Maurice Ravel Bol√©ro;1961;SX
+0101;Orkiestra Symfoniczna Filharmonii Narodowej;Felix Mendelssohn Sen nocy letniej Maurice Ravel BolÈro;1961;SX
 0102;Barbara HesseBukowska;Szymanowski Dwadziescia mazurkow;1961;XL
 0103;Witold Malcuzynski;Brahms I Koncert fortepianowy;1961;SX
 0104;Bronislaw Gimpel;Henryk Wieniawski Utwory skrzypcowe;1961;SX
@@ -107,7 +107,7 @@
 0124;Orkiestra Symfoniczna Filharmonii Narodowej;Sergiusz Rachmaninow III Koncert Fortepianowy dmoll op.30;1961;SX
 0125;Rozni wykonawcy;Szymanowski Szostakowicz;1961;XL
 0126;Kwartet Borodina Barbara HesseBukowska;Szymanowski;1961;XL
-0127;Rozni wykonawcy;Jazz Jamboree 61;vol. 1;1961;XL
+0127;Rozni wykonawcy;Jazz Jamboree 61 vol 1;1961;XL
 0128;Tadeusz Wronski;Brahms Koncert skrzypcowy;1961;XL
 0129;Rudolf Mauersberger;Johann Sebastian Bach Masza hmol;1961;SX
 0132;Witold Rowicki;Witold Lutoslawski Concerto for Orchestra;1961;XL
@@ -116,11 +116,11 @@
 0136;Stanislaw Wislocki;Ludwig van Beethoven VI Symfonia Pastoralna Fdur op. 68;1961;SX
 0137;Wladyslaw Kedra;Liszt Koncerty fortepianowe;1961;SX
 0138;Wladyslaw Kedra;Gershwin;1961;XL
-0139;Witold Rowicki;Franz Schubert V Symfonia Bdur VIII Symfonia hmoll ‚ÄûNiedokonczona‚Äù;1961;SX
+0139;Witold Rowicki;Franz Schubert V Symfonia Bdur VIII Symfonia hmoll ÑNiedokonczonaî;1961;SX
 0140;Tadeusz Wronski;Koncerty skrzypcowe;1961;SX
-0141;Mazowsze;‚ÄûMazowsze‚Äù The Polish Song and Dance Ensemble vol. 1;1961;SX
-0142;Mazowsze;‚ÄûMazowsze‚Äù The Polish Song and Dance Ensemble vol. 2;1961;SX
-0143;Mazowsze;‚ÄûMazowsze‚Äù The Polish Song and Dance Ensemble vol. 3;1961;SX
+0141;Mazowsze;ÑMazowszeî The Polish Song and Dance Ensemble vol 1;1961;SX
+0142;Mazowsze;ÑMazowszeî The Polish Song and Dance Ensemble vol 2;1961;SX
+0143;Mazowsze;ÑMazowszeî The Polish Song and Dance Ensemble vol 3;1961;SX
 0144;Stanislaw Wislocki;Mozart;1962;XL
 0145;Zdzislaw Gorzynski;Flis;1962;SX
 0146;Albert Catell Stanislaw Wislocki;Dworzak Koncert wiolonczelowy;1962;XL
@@ -151,18 +151,18 @@
 0179;Wanda Wilkomirska;Mieczyslaw Karlowicz;1962;XL
 0180;Feliks Dzierzanowski;Znaszli swoj kraj?;1962;XL
 0181;Abraham Samuel Rettig;Z albumu piesni zydowskich;1964;XL
-0182;slask;‚Äûslask‚Äù The Polish Song and Dance Ensemble vol. 1;1964;SX
-0183;slask ‚Äûslask‚Äù The Polish Song and Dance Ensemble vol. 2;1964;SX
-0184;Alina Bolechowska (sopran) Chor Meski przy Kosciele sw. Jakuba dyr. Zdzislaw Wo≈∫niak Feliks Raczkowski Henryk Olton (organy);Boze Narodzenie w Polsce;1962;SX
+0182;slask;Ñslaskî The Polish Song and Dance Ensemble vol 1;1964;SX
+0183;slask Ñslaskî The Polish Song and Dance Ensemble vol 2;1964;SX
+0184;Alina Bolechowska (sopran) Chor Meski przy Kosciele sw. Jakuba dyr. Zdzislaw Woüniak Feliks Raczkowski Henryk Olton (organy);Boze Narodzenie w Polsce;1962;SX
 0185;Andrzej Hiolski;Slynne arie operowe;1964;SX
 0186;Andrzej Kurylewicz Quintet;Go Right;1964;XL
 0187;Mieczyslaw Fogg;Mieczyslaw Fogg spiewa piosenki swojej mlodosci;1960;XL
 0188;Edmund Kajdasz;Musica Antiqua Polonica;1964;XL
-0189;Mazowsze;‚ÄûMazowsze‚Äù The Polish Song and Dance Ensemble vol. 4;1963;SX
-0190;Mazowsze;‚ÄûMazowsze‚Äù "Mazowsze" spiewa koledy;1963;SX
+0189;Mazowsze;ÑMazowszeî The Polish Song and Dance Ensemble vol 4;1963;SX
+0190;Mazowsze;ÑMazowszeî "Mazowsze" spiewa koledy;1963;SX
 0191;Karol Teutsch;Muzyka wloskiego baroku;1963;SX
-0192;Rozni wykonawcy;Jazz Jamboree 63;vol. 1;1963;XL
-0193;Rozni wykonawcy;Jazz Jamboree 63;vol. 2;1963;XL
+0192;Rozni wykonawcy;Jazz Jamboree 63;vol 1;1963;XL
+0193;Rozni wykonawcy;Jazz Jamboree 63;vol 2;1963;XL
 0194;Robert Satanowski;Jan Wanski Dwie symfonie;1963;XL
 0196;Barbara HesseBukowska;Paderewski Rozycki;1963;XL
 0198;Zdzislaw Gorzynski;Johann Strauss Krol walca;1962;SX
@@ -174,7 +174,7 @@
 0205;Stanislaw Wislocki;Koncerty fortepianowe;1964;XL
 0208;Rozni wykonawcy;Warszawa da sie lubic;1964;XL
 0209;Poznanskie Slowiki;Hej koleda koleda... Poznanskie Slowiki spiewaja koledy;1964;SX
-0210;Rozni wykonawcy;Idzie zolnierz borem lasem vol. 2;1964;SX
+0210;Rozni wykonawcy;Idzie zolnierz borem lasem vol 2;1964;SX
 0211;Aleksander Bardini;Adam Mickiewicz Pan Tadeusz Ksiega I;1964;XL
 0212;Aleksander Bardini;Adam Mickiewicz Pan Tadeusz Ksiega I cd;1964;XL
 0213;Andrzej Szczepkowski;Adam Mickiewicz Pan Tadeusz Ksiega II;1964;XL
@@ -203,8 +203,8 @@
 0236;Warszawscy Stompersi;New Orleans Stompers;1964;XL
 0237;Jan Krenz;Witold Lutoslawski Utwory symfoniczne;1964;XL
 0238;Jan Krenz;Witold Lutoslawski Utwory symfoniczne kompozytorow polskich;1964;XL
-0239;Rozni wykonawcy;Jazz Jamboree 64;vol. 1;1964;XL
-0240;Rozni wykonawcy;Jazz Jamboree 64;vol. 2;1964;XL
+0239;Rozni wykonawcy;Jazz Jamboree 64;vol 1;1964;XL
+0240;Rozni wykonawcy;Jazz Jamboree 64;vol 2;1964;XL
 0241;Andrzej Kurylewicz;Polish Radio Big Band;1964;XL
 0242;Rozni wykonawcy;International Festival of Song Sopot Polish Hits;1964;XL
 0243;Stefania Woytowicz;Arie dawnych mistrzow;1964;XL
@@ -245,8 +245,8 @@
 0282;Lasalle String Quartet;Kwartety smyczkowe;1966;SX
 0283;Joachim Grubich;Organ Recital;1966;SX
 0284;Anna German;Tanczace Eurydyki;1966;XL
-0285;Rozni wykonawcy;Jazz Jamboree 65;vol. 1;1966;XL
-0286;Rozni wykonawcy;Jazz Jamboree 65;vol. 2;1966;XL
+0285;Rozni wykonawcy;Jazz Jamboree 65;vol 1;1966;XL
+0286;Rozni wykonawcy;Jazz Jamboree 65;vol 2;1966;XL
 0287;Rozni wykonawcy;Sonaty;1966;XL
 0288;Robert Satanowski;Jakub Golabek Trzy symfonie;1966;XL
 0289;Zbigniew Chwedczuk;Jozef Ziedler Nieszpory;1966;XL
@@ -254,7 +254,7 @@
 0291;Rozni wykonawcy;Sygnaly lowieckie;1966;XL
 0292;Solisci i Orkiestra Teatru Wielkiego w Warszawie;Odprawa poslow greckich;1966;XL
 0293;Orkiestra Reprezentacyjna Wojska Polskiego;Polskie marsze wojskowe;1966;XL
-0294;Capella Bydgostiensis Pro Musica Antiqua;U ≈∫rodel muzyki polskiej;1966;XL
+0294;Capella Bydgostiensis Pro Musica Antiqua;U ürodel muzyki polskiej;1966;XL
 0295;Musicae Antiquae Collegium Varsoviense;Muzyka na Zamku Warszawskim;1966;XL
 0296;Stanislaw Golonski;Muzyka na Zamku Wawelskim;1966;XL
 0297;Wiera Gran;Wiera Gran spiewa;1966;XL
@@ -267,7 +267,7 @@
 0304;Rozni wykonawcy;Piosenki o mojej Warszawie;1966;XL
 0305;Zbigniew Namyslowski Quartet;Zbigniew Namyslowski Quartet;1966;SX
 0307;Tadeusz lomnicki Zbigniew Zapasiewicz;Cyprian Norwid Wiersze wybrane;1966;SX
-0308;Rozni wykonawcy;Teatr wyobra≈∫ni Latarnik;1966;SX
+0308;Rozni wykonawcy;Teatr wyobraüni Latarnik;1966;SX
 0309;Ragtime Jazz Band;Ragtime Jazz Band;1966;XL
 0310;Halina lukomska;Arie operowe;1966;XL
 0311;Irena Santor;Piosenki stare jak swiat;1966;SX
@@ -275,7 +275,7 @@
 0313;Wielka Orkiestra Symfoniczna PR;Slynne walce koncertowe;1966;XL
 0314;Ivry Gitlis;Paganini Violin Concertos;1966;SX
 0315;Rozni wykonawcy;Operetka w przekroju Kalman;1966;XL
-0316;Orkiestra PR Orkiestra Filharmonii slaskiej solisci;Franz Leh√°r Fragmenty z operetek;1966;XL
+0316;Orkiestra PR Orkiestra Filharmonii slaskiej solisci;Franz Leh·r Fragmenty z operetek;1966;XL
 0317;Chor i Orkiestra PR;Abraham Operetka w przekroju;1966;XL
 0318;Ewa Demarczyk;Ewa Demarczyk spiewa piosenki Zygmunta Koniecznego;1967;SX
 0320;Jazz Band Ball Orchestra;Jazz Band Ball;1966;XL
@@ -295,12 +295,12 @@
 0339;Rozni wykonawcy;Piosenki Agnieszki Osieckiej;1966;XL
 0340;Stanislaw Grzesiuk;Piosenki warszawskiej ulicy;1967;XL
 0341;Jarema Stepowski;Szemrane tango;1966;SX
-0342;Rozni wykonawcy;Jazz Jamboree 66;vol. 1;1967;XL
-0343;Rozni wykonawcy;Jazz Jamboree 66;vol. 2;1967;XL
+0342;Rozni wykonawcy;Jazz Jamboree 66;vol 1;1967;XL
+0343;Rozni wykonawcy;Jazz Jamboree 66;vol 2;1967;XL
 0345;Jan Kiepura;Arie operowe;1966;XL
 0346;Jan Kiepura;Piesni i piosenki filmowe;1966;SX
-0347;Zespol Piesni i Tanca "slask";‚Äûslask‚Äù Christmas Carols Przy stole wigilijnym;1967;SX
-0348;Zespol Piesni i Tanca "slask";‚Äûslask‚Äù vol. 3;1967;XL
+0347;Zespol Piesni i Tanca "slask";Ñslaskî Christmas Carols Przy stole wigilijnym;1967;SX
+0348;Zespol Piesni i Tanca "slask";Ñslaskî vol 3;1967;XL
 0349;Andrzej lapicki;Mickiewicz Sonety;1967;XL
 0351;Maria Koterbska;Nie mowmy ze to milosc...;1967;SX
 0352;Czerwono-Czarni;Czerwono-Czarni;1966;SX
@@ -331,8 +331,8 @@
 0382;Rozni wykonawcy;Wieniawski Koncerty;1967;XL
 0383;Rozni wykonawcy;Szymanowski Koncerty skrzypcowe;1968;XL
 0384;Stanislaw Wislocki;Utwory operowe;1967;SX
-0385;Rozni wykonawcy;Laureaci Konkursow im. Wieniawskiego vol. 1;1967;XL
-0386;Rozni wykonawcy;Laureaci Konkursow im. Wieniawskiego vol. 2;1967;SX
+0385;Rozni wykonawcy;Laureaci Konkursow im. Wieniawskiego vol 1;1967;XL
+0386;Rozni wykonawcy;Laureaci Konkursow im. Wieniawskiego vol 2;1967;SX
 0387;Zdzislaw Gorzynski;Gounod Faust Opera w przekroju;1968;SX
 0388;Asocjacja Hagaw;Do You Love Hagaw?;1967;SX
 0389;Polska Kapela Ludowa Feliksa Dzierzanowskiego;Zabawa do rana;1967;XL
@@ -345,8 +345,8 @@
 0397;Stefan Rachon;Franz von Suppe Uwertury;1967;SX
 0398;Rozni wykonawcy;W dzien Bozego Narodzenia;1967;SX
 0399;Leonard Bernstein;George Gershwin;1967;SX
-0400;Louis Armstrong;The Luis Armstrong Story vol. 1;1967;XL
-0401;Louis Armstrong;The Luis Armstrong Story vol. 2;1967;SX
+0400;Louis Armstrong;The Luis Armstrong Story vol 1;1967;XL
+0401;Louis Armstrong;The Luis Armstrong Story vol 2;1967;SX
 0407;Bohdan lazuka;zyczenia dla pan;1967;XL
 0408;Tadeusz Wesolowski;Na Krakowskim Rynku;1967;SX
 0409;Adam Wiernik;Sobotka swietojanska Misterium ludowe;1967;XL
@@ -364,7 +364,7 @@
 0466;Jerzy Polomski;Daj!;1968;SX
 0472;Danuta Rinn i Bogdan Czyzewski;Pamietaj o mnie;1969;SX
 0479;Czerwone Gitary;Czerwone Gitary (3);1968;XL
-0480;Wojciech Mlynarski;Dziewczyny bad≈∫cie dla nas dobre na wiosne;1968;XL
+0480;Wojciech Mlynarski;Dziewczyny badücie dla nas dobre na wiosne;1968;XL
 0482;Rozni wykonawcy;Ballady Bulata Okudzawy;1968;SX
 0489;Irena Santor;Zapamietaj ze to ja...;1968;XL
 0499;Chor i Orkiestra PR;Piesni walki i pokoju;1968;XL
@@ -418,7 +418,7 @@
 0733;Michal Urbaniak Group;Live recording;1971;SX
 0734;Czerwone Gitary;Spokoj serca;1971;SX
 0741;Anna German;Wiatr mieszka w dzikich topolach;1971;SX
-0743;Anna German;Arie z opery ‚ÄûTetyda na wyspie Skyros‚Äù;1971;SX
+0743;Anna German;Arie z opery ÑTetyda na wyspie Skyrosî;1971;SX
 0744;Mieczyslaw Kosz;Reminiscence;1971;SX
 0745;Paradox;Drifting Feather;1971;SX
 0751;Irena Santor;Moja Warszawa;1972;SX
@@ -433,7 +433,7 @@
 0802;Zdzislawa Sosnicka;Zdzislawa Sosnicka;1971;SX
 0817;Wojciech Mlynarski;Recital 71;1971;SX
 0832;Irena Santor;Z toba na zawsze;1971;SX
-0839;Tadeusz Wo≈∫niak Tadeusz Wo≈∫niak;1972;SX
+0839;Tadeusz Woüniak Tadeusz Woüniak;1972;SX
 0840;Farida;Farida;1972;SX
 0841;Old Timers Sami Swoi Old Metropolitan Band High Society;Tribute to Armstrong;1972;SX
 0842;Old Timers;Hallo hold the line;1972;SX
@@ -484,18 +484,18 @@
 1014;Andrzej i Eliza;Czas relaksu;1973;SX
 1015;Tadeusz Ross;Odpowiedz usmiechem;1973;XL
 1016;Jozef Serafin;Jozef Serafin Plays Organ Works by Jehan Alain;1973;SX
-1017;Maria Foltyn;Slawni polscy spiewacy vol. 1;1974;SX
+1017;Maria Foltyn;Slawni polscy spiewacy vol 1;1974;SX
 1018;Agnieszka Kossakowska;Gaiczek zielony Piosenki i tance dla przedszkolakow;1974;SX
 1022;Kapela Czerniakowska;Tango Czerniakowskie;1974;SX
 1023;Joanna Rawik;Romantycznosc;1974;SX
-1032;Zespol ‚ÄûLachy‚Äù;Polski folklor muzyczny vol. 3;1974;SX
+1032;Zespol ÑLachyî;Polski folklor muzyczny vol 3;1974;SX
 1041;Wanda Polanska;Najpiekniejsze arie z operetek i musicali;1974;SX
 1042;Agnieszka Kossakowska;Arie z operetek Lehara i Offenbacha;1974;SX
 1045;Rozni wykonawcy;Piosenki o Warszawie;1974;SX
 1047;Jerzy Polomski;W cicha noc;1974;SX
 1048;Jerzy Polomski;Bo z dziewczynami;1974;SX
 1051;Jan Ekier;Jan Ekier;1974;SX
-1052;Bozena Betley (sopran) Jerzy Marchwinski;Stanislaw Moniuszko Piesni ze ‚Äûspiewnikow domowych‚Äù;1974;SX
+1052;Bozena Betley (sopran) Jerzy Marchwinski;Stanislaw Moniuszko Piesni ze Ñspiewnikow domowychî;1974;SX
 1067;Polska Kapela Ludowa Feliksa Dzierzanowskiego;Podkoweczki dajcie ognia;1974;SX
 1069;Wojciech Karolak;Easy!;1974;SX
 1079;SPPT Chalturnik;SPPT Chalturnik;1974;SX
@@ -521,24 +521,24 @@
 1142;SBB;SBB;1974;SX
 1147;Roman Jablonski;Koncerty wiolonczelowe;1972;SX
 1157;Zespol Muzyki Cerkiewnej Warszawskiej Opery Kameralnej;Muzyka cerkiewna;1974;SX
-1159;Rozni wykonawcy;‚ÄûLata ptaszek‚Äù ‚ÄûKsiezniczka na ziarnku grochu‚Äù bajki muzyczne;1974;SX
-1160;Tadeusz Wo≈∫niak;Tadeusz Wo≈∫niak;1974;SX
+1159;Rozni wykonawcy;ÑLata ptaszekî ÑKsiezniczka na ziarnku grochuî bajki muzyczne;1974;SX
+1160;Tadeusz Woüniak;Tadeusz Woüniak;1974;SX
 1161;Rozni wykonawcy;Dyskoteka 7;1974;SX
 1164;Panstwowa Orkiestra Filharmonii lodzkiej;Ludwig van Beethoven V symfonia;1974;SX
 1166;Czerwone Gitary;Rytm Ziemi;1974;SX
 1167;Rozni wykonawcy;Przeboje z Niemieckiej Republiki Demokratycznej;1974;SX
 1173;Jerzy Ficowski;Dom w ktorym smieszy Wiersze dla dzieci;1974;SX
 1179;Boston Light Operatic Society;Hair (Galt MacDermot);1974;SX
-1180;Rozni wykonawcy;Jazz Jamboree 74;vol. 1;1974;SX
-1181;Rozni wykonawcy;Jazz Jamboree 74;vol. 2;1974;SX
+1180;Rozni wykonawcy;Jazz Jamboree 74;vol 1;1974;SX
+1181;Rozni wykonawcy;Jazz Jamboree 74;vol 2;1974;SX
 1186;Jozef Serafin (organy);Jozef Serafin plays in Lezajsk Cathedral J.S.Bach Organ Works;1974;SX
 1189;Wawele;Niebieskie dni;1974;SX
 1190;Czeslaw Gladkowski Krzysztof Zgraja;Alter ego;1974;SX
 1191;Jerzy Godziszewski;Jerzy Godziszewski Plays Piano Works;1974;SX
 1192;Czeslaw Niemen;Niemen Aerolit;1975;SX
-1193;kurs jezyka angielskiego;Mowimy po angielsku vol. 1;1975;XL
-1194;kurs jezyka angielskiego;Mowimy po angielsku vol. 2;1975;XL
-1195;kurs jezyka angielskiego;Mowimy po angielsku vol. 3;1975;XL
+1193;kurs jezyka angielskiego;Mowimy po angielsku vol 1;1975;XL
+1194;kurs jezyka angielskiego;Mowimy po angielsku vol 2;1975;XL
+1195;kurs jezyka angielskiego;Mowimy po angielsku vol 3;1975;XL
 1196;kurs jezyka rosyjskiego;Mowimy po rosyjsku;1975;SX
 1201;kurs jezyka niemieckiego;Mowimy po niemiecku;1975;XL
 1204;Maria Koterbska;Jubileusz;1975;SX
@@ -549,12 +549,12 @@
 1211;Grajaca Tabakierka;Grajaca Tabakierka;1975;SX
 1212;2 plus 1;Wyspa dzieci;1975;SX
 1213;Rozni wykonawcy;Dyskoteka Polskich Nagran Dyskoteka 8;1975;SX
-1214;Panstwowy Zespol Ludowy Piesni i Tanca ‚ÄûMazowsze‚Äù;‚ÄûMazowsze‚Äù 25 lat;1975;SX
+1214;Panstwowy Zespol Ludowy Piesni i Tanca ÑMazowszeî;ÑMazowszeî 25 lat;1975;SX
 1215;Chor dzieciecy;laczy nas piosenka piosenki roznych narodow;1975;SX
 1216;Rozni wykonawcy;Za zdrowie pan;1975;SX
 1217;Rozni wykonawcy;Opole 75;1975;SX
 1218;Adam Makowicz;Live Embers;1975;SX
-1219;Rozni wykonawcy;Polskie Targi Estradowe lod≈∫ 75;1975;SX
+1219;Rozni wykonawcy;Polskie Targi Estradowe lodü 75;1975;SX
 1220;Old Timers/Marianna Wroblewska;Meeting;1975;SX
 1221;Spisek Szesciu;Complot of Six;1975;SX
 1222;Zespol Piesni i Tanca Polnocnej Grupy Wojsk Radzieckich;Zespol Polnocnych Grup Wojsk ZSRR;1975;SX
@@ -563,7 +563,7 @@
 1225;Eugen Indjic;Chopin Sonaty;1975;SX
 1226;Ryszard Bakst;Mendelssohn Piesni bez slow;1975;SX
 1227;Rozni wykonawcy;Dzisiaj jutro zawsze i inne piosenki Wojciecha Pietowskiego;1975;SX
-1228;Rozni wykonawcy;Ernest Bryll Katarzyna Gaertner ‚Äû...srebrne dzwony‚Äù;1975;SX
+1228;Rozni wykonawcy;Ernest Bryll Katarzyna Gaertner Ñ...srebrne dzwonyî;1975;SX
 1229;Rozni wykonawcy;Maszeruja przedszkolaki;1975;SX
 1230;Zbigniew Namyslowski Quintet;Kujaviak Goes Funky;1975;SX
 1232;Rozni wykonawcy;Sowieckim braciom broni;1975;SX
@@ -573,10 +573,10 @@
 1237;Rare Bird;Rare Bird;1975;SX
 1238;The Rattles;The Rattles;1975;SX
 1239;Marsha Hunt;Marsha Hunt;1975;SX
-1245;Danuta Rinn;Gdzie ci mezczy≈∫ni;1975;SX
+1245;Danuta Rinn;Gdzie ci mezczyüni;1975;SX
 1246;General;Rockin and rollin;1974;SX
-1248;Zespol instrumentalny Mieczyslawa Janicza;‚ÄûUmarl Maciek...‚Äù (polskie piosenki ludowe i popularne 2);1975;SX
-1249;Zespol instrumentalny Mieczyslawa Janicza;‚ÄûTy pojdziesz gora‚Äù (polskie piosenki ludowe i popularne 3);1975;SX
+1248;Zespol instrumentalny Mieczyslawa Janicza;ÑUmarl Maciek...î (polskie piosenki ludowe i popularne 2);1975;SX
+1249;Zespol instrumentalny Mieczyslawa Janicza;ÑTy pojdziesz goraî (polskie piosenki ludowe i popularne 3);1975;SX
 1262;Czeslaw Niemen;Katharsis;1975;SX
 1264;Budka Suflera;Cien wielkiej gory;1975;SX
 1279;Ossian;Ossian;1975;SX
@@ -587,16 +587,16 @@
 1304;Norrie Paramor & The Midland Radio Orchestra;Norrie Paramor & The Midland Radio Orchestra;1975;SX
 1310;Rozni wykonawcy;IX Miedzynarodowy Konkurs im.F.Chopina Warszawa 1975;1975;SX
 1321;Rozni wykonawcy;Antoni Marianowicz Alicja w Krainie Czarow (basn muzyczna);1975;SX
-1322;Rozni wykonawcy;Polish Jazz 1946-1956;vol. 1 Post-War Dance Bands;1975;SX
-1323;Rozni wykonawcy;Polish Jazz;1946-1956;vol. 2;Golden Era of the ‚ÄûMelomani‚Äù Group;1975;SX
-1324;Rozni wykonawcy;Polish Jazz;1946-1956;vol. 3;From ‚ÄûImprovising Jazz‚Äù Series;1976;SX
-1325;Rozni wykonawcy;Polish Jazz;1946-1956;vol. 4;Early Polish Jazz Piano Players;1976;SX
+1322;Rozni wykonawcy;Polish Jazz 1946-1956;vol 1 Post-War Dance Bands;1975;SX
+1323;Rozni wykonawcy;Polish Jazz;1946-1956;vol 2;Golden Era of the ÑMelomaniî Group;1975;SX
+1324;Rozni wykonawcy;Polish Jazz;1946-1956;vol 3;From ÑImprovising Jazzî Series;1976;SX
+1325;Rozni wykonawcy;Polish Jazz;1946-1956;vol 4;Early Polish Jazz Piano Players;1976;SX
 1327;Leonard Mroz;Arie operowe;1976;SX
 1343;Homo Homini;Homo Homini 3;1975;SX
 1344;Daniel;Bezpanska milosc;1976;SX
 1345;SBB;Pamiec;1976;SX
 1346;Kabaret Dudek;Upupa epops;1976;SX
-1348;Klaus Lenz Big Band;Klaus Lenz Big Band With Uschi Br√ºning And Klaus Nowodworski;1976;SX
+1348;Klaus Lenz Big Band;Klaus Lenz Big Band With Uschi Br¸ning And Klaus Nowodworski;1976;SX
 1353;Sami Swoi;Ach! Jak przyjemnie;1976;SX
 1354;Rozni wykonawcy;Krolowa Zima Basnie o Bolku i Lolku;1976;SX
 1355;ABBA;ABBA;1976;SX
@@ -625,8 +625,8 @@
 1434;SBB;Ze slowem biegne do ciebie;1977;SX
 1439;Jerzy Polomski;Z toba swiat nie ma wad;1977;SX
 1449;2 plus 1;Aktor;1977;SX
-1454;Rozni wykonawcy;Jazz Jamboree 76;vol. 1;1976;SX
-1455;Rozni wykonawcy;Jazz Jamboree 76;vol. 2;1976;SX
+1454;Rozni wykonawcy;Jazz Jamboree 76;vol 1;1976;SX
+1455;Rozni wykonawcy;Jazz Jamboree 76;vol 2;1976;SX
 1462;kurs jezyka niemieckiego;Deutsch mein neues hobby 1;1976;XL
 1463;kurs jezyka niemieckiego;Deutsch mein neues hobby 2;1976;XL
 1464;kurs jezyka niemieckiego;Deutsch mein neues hobby 3;1976;XL
@@ -641,10 +641,10 @@
 1509;Arp Life;Jumbo jet;1977;SX
 1514;Orkiestra i Chor Filharmonii Narodowej;Koscielec/1909/Przygrywka i koleda/Bogurodzica;1977;SX
 1544;Violetta Villas;Nie ma milosci bez zazdrosci;1977;SX
-1550;Rozni wykonawcy;Jazz Jamboree 77;vol. 1;1977;SX
+1550;Rozni wykonawcy;Jazz Jamboree 77;vol 1;1977;SX
 1554;Anna Jantar;Zawsze gdzies czeka ktos;1977;SX
 1555;Jerzy Polomski;Tempus fugit;1977;SX
-1570;N. AE.;Id√©e fixe;1978;SX
+1570;N. AE.;IdÈe fixe;1978;SX
 1573;Gaweda;Gaweda;1978;XS
 1574;2 plus 1;Teatr na drodze;1978;SX
 1583;Marianna Wroblewska;Feelings;1978;SX
@@ -676,7 +676,7 @@
 1769;Cymande;The Message;1979;SX
 1771;Old Timers William Wild Bill Davison;Old Timers with Wild Bill Davison;1979;SX
 1777;Osjan;Ksiega chmur;1979;SX
-1781;slask;The Polish Song and Dance Ensemble ‚Äûslask‚Äù 25 lat;1979;SX
+1781;slask;The Polish Song and Dance Ensemble Ñslaskî 25 lat;1979;SX
 1789;Homo Homini;Homo Homini 4;1979;SX
 1796;Krzysztof Sadowski;Swing Party;1979;SX
 1803;Chor Dzieciecy;Tance i zabawy ludowe dla przedszkolakow;1979;SX
@@ -688,19 +688,19 @@
 1851;Zdzislawa Sosnicka;Odcienie Samotnosci;1980;SX
 1854;Salvo;Solo tu;1979;SX
 1861;Artur Rubinstein;Fryderyk Chopin Koncert fortepianowy F-Moll;1979;SX
-1869;Rozni wykonawcy;Zapraszamy do Trojki vol. 3;1980;SX
+1869;Rozni wykonawcy;Zapraszamy do Trojki vol 3;1980;SX
 1870;Drupi;Drupi;1980;SX
 1873;kurs jezyka angielskiego;Angielski dla poczatkujacych Have a Nice Trip;1980;SX
 1876;Czeslaw Niemen;Postscriptum;1980;SX
-1877;Pod Buda;Grupa Muzyczna ‚ÄûPod Buda‚Äù Krakow;1981;SX
+1877;Pod Buda;Grupa Muzyczna ÑPod Budaî Krakow;1981;SX
 1892;Budka Suflera;Ona przyszla prosto z chmur;1980;SX
 1913;Violetta Villas;Dawne przeboje;1980;SX
-1940;Rozni wykonawcy;Najpiekniejsze koledy Pojd≈∫my wszyscy do stajenki;1980;SX
+1940;Rozni wykonawcy;Najpiekniejsze koledy Pojdümy wszyscy do stajenki;1980;SX
 1927;Rozni wykonawcy;Kiedysmy wracali;1980;SX
 1932;Anna Jantar;The Best of Anna Jantar;1980;SX
 1934;Exodus;The Most Beautiful Day;1980;SX
 1941;Sun Ship;Follow Us;1980;SX
-1947;Orkiestra PRiTV;Benedykt Konowalski ‚ÄûPolish Dances‚Äù;1980;SX
+1947;Orkiestra PRiTV;Benedykt Konowalski ÑPolish Dancesî;1980;SX
 1962;Krystyna Gizowska;Jestem jak inne;1980;SX
 1966;SBB;Memento z banalnym tryptykiem;1980;SX
 1970;Geoff Love Country Singers The;Country Roads;1980;SX
@@ -745,23 +745,23 @@
 2204;Rozni wykonawcy;Przeboje 40-lecia (4);1984;SX
 2205;Rozni wykonawcy;Przeboje 40-lecia (5);1984;SX
 2206;Zespol Muzyki Cerkiewnej Warszawskiej Opery Kameralnej;Muzyka cerkiewna;1984;SX
-2208;Rozni wykonawcy;Muzycy 40lecia vol. 2;1984;SX
+2208;Rozni wykonawcy;Muzycy 40lecia vol 2;1984;SX
 2217;Rozni wykonawcy;Top 84;SX
 2219;Rozni wykonawcy;Music from Poland at Midem `85;1985;SX
 2221;Maanam;Mental Cut;1984;SX
 2222;Krystyna Janda Marek Grechuta;W malinowym chrusniaku;1984;SX
 2222;Krystyna Janda;Dancing;1984;SX
 2223;Asocjacja Hagaw;Please;1984;SX
-2231;Czerwone Gitary;To wlasnie my Z archiwum polskiego beatu vol. 5;1984;SX
-2232;Czerwone Gitary;Czerwone Gitary (2) Z archiwum polskiego beatu vol. 6;1984;SX
-2233;Czerwone Gitary;Czerwone Gitary (3) Z archiwum polskiego beatu vol. 7;1984;SX
+2231;Czerwone Gitary;To wlasnie my Z archiwum polskiego beatu vol 5;1984;SX
+2232;Czerwone Gitary;Czerwone Gitary (2) Z archiwum polskiego beatu vol 6;1984;SX
+2233;Czerwone Gitary;Czerwone Gitary (3) Z archiwum polskiego beatu vol 7;1984;SX
 2235;Jan Kowalski;Inside Outside Songs;1984;SX
 2236;Dzem;Cegla;1985;SX
 2241;Mieczyslaw Wojnicki;Najpiekniejsze arie operetkowe;1985;SX
 2250;Tomasz Szukalski;Tina Kamila;1985;SX
 2251;Leszek Winder;Blues Forever;1985;SX
 2253;Stanislaw Wenglorz;Niedokonczona rozmowa;1986;SX
-2259;Klaus Schulze Rainer Bloss Dziekuje Poland Live ‚Äô83;1985;SX[5]
+2259;Klaus Schulze Rainer Bloss Dziekuje Poland Live í83;1985;SX[5]
 2263;Kombi;Kombi 4;1985;SX
 2264;Maryla Rodowicz;Gejsza nocy;1986;SX
 2266;Rozni wykonawcy;Szal by night;1986;SX
@@ -788,13 +788,13 @@
 2346;Halina Frackowiak;Ogrod Luizy;1983;SX
 2362;Kameralny Chor Meski Sofia;Starobulgarskie spiewy cerkiewne;1986;SX
 2365;Ewa Bem;Be a Man;1986;SX
-2374;The Louis Armstrong Story Vol. 1;1986;SX
-2375;The Louis Armstrong Story Vol. 2;1986;SX
+2374;The Louis Armstrong Story vol 1;1986;SX
+2375;The Louis Armstrong Story vol 2;1986;SX
 2376;Stan dArt;Undergrajdol;1987;SX
 2378;Maryla Rodowicz;swiety spokoj;1982;SX
 2379;Waly Jagiellonskie;Etykieta zastepcza;1986;SX
 2388;Bank;Jestem panem swiata;1986;SX
-2391;Breakout;Na drugim brzegu teczy Z archiwum polskiego beatu vol. 16;1986;SX
+2391;Breakout;Na drugim brzegu teczy Z archiwum polskiego beatu vol 16;1986;SX
 2404;Wojciech Kaminski;Open piano;1986;SX
 2417;Bill Haley & The Comets;Rock And Roll;1986;SX
 2435;Herreys;Grand Prix;1986;SX
@@ -817,7 +817,7 @@
 2517;Shakin Stevens;Greatest hits;1987;SX
 2523;Zdzislawa Sosnicka;Aleja Gwiazd;1987;SX
 2525;Young Power;Young Power;1987;SX
-2529;Klan;Mrowisko Z archiwum polskiego beatu vol. 21;1987;SX
+2529;Klan;Mrowisko Z archiwum polskiego beatu vol 21;1987;SX
 2538;Krzak;Ostatni koncert;1987;SX
 2542;Natalia Kukulska;Bajki Natalki;1987;SX
 2543;Bajm;Nagie skaly;1988;SX
@@ -841,8 +841,8 @@
 2604;Elzbieta Wojnowska;Songi Brechta;1988;SX
 2606;Stasiek Wielanek i Kapela Warszawska;Lwowskich przedmiesc piosenki;1988;SX
 2608;The Fotoness;When I Die;1988;SX
-2609;Osjan;Rytual d≈∫wieku i ciszy;1988;SX
-2612;Kora P√ºdelsi;Bela Pupa;1988;SX
+2609;Osjan;Rytual düwieku i ciszy;1988;SX
+2612;Kora P¸delsi;Bela Pupa;1988;SX
 2614;Lonstar Band;Rozne kolory;1989;SX
 2615;Grazyna Auguscik;Sunrise Sunset;1988;SX
 2616;Niebiesko-Czarni;25 lat Niebiesko-Czarnych Przezyjmy to jeszcze raz;1988;SX
@@ -885,7 +885,7 @@
 2707;Obywatel GC;Tak! Tak!;1988;SX
 2708;Kim Wilde;Close;1988;SX
 2724;Danuta Rinn;Polska baba;1989;SX
-2725;Kwartet Jorgi;Kwartet Jorgi vol. 1;1988;SX
+2725;Kwartet Jorgi;Kwartet Jorgi vol 1;1988;SX
 2727;Krzysztof Antkowiak;Zakazany owoc;1989;SX
 2729;Marek Grechuta;Krajobraz pelen nadziei;1989;SX
 2742;Kapitan Nemo;In a Little While;1989;SX
@@ -897,7 +897,7 @@
 2757;Skaldowie;Nie domykajmy drzwi;1989;SX
 2759;Tina Turner;Tina Live in Europe;1989;SX
 2767;Jozef Skrzek;Live;1989;SX
-2774;Krystyna Pronko;Firma ‚ÄûJa i Ty‚Äù;SX
+2774;Krystyna Pronko;Firma ÑJa i Tyî;SX
 2777;Rozni wykonawcy;Jarocin 88;1989;SX
 2780;Kombi;Tabu;1989;SX
 2782;Rozni wykonawcy;Bajlandia Piosenki dla malych i duzych;1989;SX
@@ -911,8 +911,8 @@
 2804;Marianna Wroblewska;Wieczor samotnych pan;1990;SX
 2805;Hanka Ordonowna;Ja spiewam piosenki...;1989;SX
 2807;Tomasz Szukalski;Borzomski Wawoz Body and soul;1989;SX
-2808;Anna German;Powracajace slowa vol. 1;1990;SX
-2809;Anna German;Powracajace slowa vol. 2;1990;SX
+2808;Anna German;Powracajace slowa vol 1;1990;SX
+2809;Anna German;Powracajace slowa vol 2;1990;SX
 2810;Sztywny Pal Azji;Szukam nowego siebie;1989;SX
 2811;Alibabki;Wesolych swiat;1989;SX
 2812;Turbo;Epidemie;1990;SX
@@ -938,19 +938,19 @@
 2882;Wojciech Mlynarski;Jeszcze w zielone gramy;1990;SX
 2884;Phil Collins;...But Seriously;1990;SX
 2885;Przemyslaw Gintrowski;Raport z oblezonego miasta;1990;SX
-2886;Rozni wykonawcy;Fryderyk Chopin International Chopin Piano Competition vol. 1 Golden twelve;1990;SX
-2887;Rozni wykonawcy;Fryderyk Chopin International Chopin Piano Competition vol. 2 Golden twelve;1990;SX
-2888;Rozni wykonawcy;Fryderyk Chopin International Chopin Piano Competition vol. 3 Golden twelve;1990;SX
-2889;Rozni wykonawcy;Fryderyk Chopin International Chopin Piano Competition vol. 4 Golden twelve;1990;SX
-2890;Rozni wykonawcy;Fryderyk Chopin International Chopin Piano Competition vol. 5 Golden twelve;1990;SX
+2886;Rozni wykonawcy;Fryderyk Chopin International Chopin Piano Competition vol 1 Golden twelve;1990;SX
+2887;Rozni wykonawcy;Fryderyk Chopin International Chopin Piano Competition vol 2 Golden twelve;1990;SX
+2888;Rozni wykonawcy;Fryderyk Chopin International Chopin Piano Competition vol 3 Golden twelve;1990;SX
+2889;Rozni wykonawcy;Fryderyk Chopin International Chopin Piano Competition vol 4 Golden twelve;1990;SX
+2890;Rozni wykonawcy;Fryderyk Chopin International Chopin Piano Competition vol 5 Golden twelve;1990;SX
 2892;Bon Jovi;New Jersey;1990;SX
 2893;Eric Clapton;Journeyman;1990;SX
 2894;Cher;Heart of Stone;1990;SX
 2895;King Diamond;Conspiracy;1990;SX
 2896;Slayer;Live Undead;1990;SX
 2899;Rozni wykonawcy;Fryderyk Chopin Najlepsze wykonania mazurkow;1990;SX
-2900;Rozni wykonawcy;Fryderyk Chopin Najlepsze wykonania mazurkow vol. 2;1990;SX
-2901;Rozni wykonawcy;Fryderyk Chopin Najlepsze wykonania mazurkow vol. 3;1990;SX
+2900;Rozni wykonawcy;Fryderyk Chopin Najlepsze wykonania mazurkow vol 2;1990;SX
+2901;Rozni wykonawcy;Fryderyk Chopin Najlepsze wykonania mazurkow vol 3;1990;SX
 2902;Madonna;Im Breathless;1990;SX
 2903;Krzysztof Daukszewicz;Bieda;1990;SX
 2904;Led Zeppelin;Led Zeppelin I;1990;SX
@@ -981,14 +981,14 @@
 2965;Ireneusz Dudek;Bands of 80s;1991;SX
 2966;The Doors;The Best of The Doors;1991;SX
 2972;Carreras Domingo Pavarotti;In concert;1991;SX
-2977;Skaldowie;Greatest Hits Vol. 1;1991;SX
+2977;Skaldowie;Greatest Hits vol 1;1991;SX
 2976;Genesis;Genesis;1991;SX
 2979;Hammer;Terror;1991;SX
 2988;Janusz Gniatkowski;Tylko serce nie usnie;1991;SX
-2990;Skaldowie;Greatest Hits Vol. 2;1991;SX
+2990;Skaldowie;Greatest Hits vol 2;1991;SX
 2995;Ada Rusowicz;Gwiazdy mocnego uderzenia;1991;SX
-2996;Krzysztof Klenczon;Muzyka z tamtej strony dnia vol. 1;1991;SX
-2997;Krzysztof Klenczon;Muzyka z tamtej strony dnia vol. 2;1991;SX
+2996;Krzysztof Klenczon;Muzyka z tamtej strony dnia vol 1;1991;SX
+2997;Krzysztof Klenczon;Muzyka z tamtej strony dnia vol 2;1991;SX
 2998;Mike Oldfield;Tubular Bells;1991;SX
 2999;Mike Oldfield;Heavens Open;1991;SX
 3000;Roxy Music;Avalon;1991;SX
@@ -1028,5 +1028,5 @@
 3062;Dire Straits;Making Movies;1991;SX
 3065;Rozni wykonawcy;Koledy w Teatrze Stu;1991;SX
 3067;Maryla Rodowicz;Absolutnie nic;1991;SX
-3068;Rozni wykonawcy;Zlote lata polskiego beatu vol. 1;1991;SX
-3069;Rozni wykonawcy;Zlote lata polskiego beatu vol. 2;1991;SX
+3068;Rozni wykonawcy;Zlote lata polskiego beatu vol 1;1991;SX
+3069;Rozni wykonawcy;Zlote lata polskiego beatu vol 2;1991;SX

@@ -28,7 +28,7 @@ public class Filtrowanie {
 	    
 	    try {
             conn = DriverManager.getConnection(DB_URL);
-            stmt = conn.createStatement();
+            setStmt(conn.createStatement());
         } catch (SQLException e) {
             System.err.println("Problem z otwarciem po³¹czenia");
             e.printStackTrace();
@@ -53,5 +53,13 @@ public class Filtrowanie {
     		e.printStackTrace();
     	}
     	System.out.println("Dodano odfiltrowane dane z pliku");
+	}
+
+	public static Statement getStmt() {
+		return stmt;
+	}
+
+	public static void setStmt(Statement stmt) {
+		Filtrowanie.stmt = stmt;
 	}
 }

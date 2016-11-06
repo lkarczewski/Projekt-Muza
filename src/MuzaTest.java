@@ -8,6 +8,7 @@ public class MuzaTest {
 		Filtrowanie op1a = new Filtrowanie();
 		Dodawanie op1b = new Dodawanie();
 		Wyswietl op2 = new Wyswietl();
+		UsunBaze op3 = new UsunBaze();
 		
 		Scanner wejscie = new Scanner(System.in);
 		int opcja=0;
@@ -21,11 +22,11 @@ public class MuzaTest {
 			System.out.println("---------------------------------------------");
 			System.out.println("1 - Utwórz bazê danych");
 			System.out.println("2 - Wyœwietl ca³¹ bazê danych");
-			//System.out.println("3 - Usuñ bazê danych");
-			System.out.println("3 - Wyszukaj wykonawcê");
-			System.out.println("4 - Wyszukaj album");
-			System.out.println("5 - Wyœwietl wszystkie p³yty z danego roku");
-			System.out.println("6 - WyjdŸ");
+			System.out.println("3 - Usuñ tabele");
+			System.out.println("4 - Wyszukaj wykonawcê");
+			System.out.println("5 - Wyszukaj album");
+			System.out.println("6 - Wyœwietl wszystkie p³yty z danego roku");
+			System.out.println("7 - WyjdŸ");
 			System.out.println("---------------------------------------------");
 			System.out.println("WprowadŸ liczbê aby wybraæ opcjê:");
 			opcja=wejscie.nextInt();
@@ -40,16 +41,16 @@ public class MuzaTest {
 				op2.Show();
 				break;
 			case 3:
-				System.out.println("Podaj wykonawcê");
+				op3.Delete();
 				break;
 			case 4:
-				System.out.println("Podaj nazwê albumu");
+				System.out.println("Podaj wykonawcê");
 				break;
 			case 5:
-				System.out.println("Podaj rok");
+				System.out.println("Podaj nazwê albumu");
 				break;
 			case 6:
-				System.out.println("Wybra³eœ opcjê 6");
+				System.out.println("Podaj rok");
 				break;
 			case 7:
 				System.out.println("Zakoñczono");
