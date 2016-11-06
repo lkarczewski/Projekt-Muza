@@ -28,7 +28,7 @@ public class StworzBaze {
         }
        
         //tworze tabele
-        String createPlyta="CREATE TABLE IF NOT EXISTS plyta(id INTEGER(4), wykonawca VARCHAR(50), album VARCHAR(50), rok INTEGER(4));";
+        String createPlyta="CREATE TABLE IF NOT EXISTS plyta(id INTEGER, wykonawca TEXT, album TEXT, rok INTEGER);";
         try {
             stmt.execute(createPlyta);
 

@@ -19,7 +19,7 @@ public class Filtrowanie {
 	
 	void Filter() throws FileNotFoundException {
 		
-	    try {
+		try {
             Class.forName(DRIVER);
         } catch (ClassNotFoundException e) {
             System.err.println("Brak sterownika JDBC");
