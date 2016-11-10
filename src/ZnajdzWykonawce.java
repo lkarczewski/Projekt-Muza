@@ -1,5 +1,6 @@
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
@@ -12,35 +13,45 @@ public class ZnajdzWykonawce {
     private static Statement stmt;
     
     void FindArtist(){
-    	//dodaje klase JDBC
-	    try {
-            Class.forName(DRIVER);
-        } catch (ClassNotFoundException e) {
-            System.err.println("Brak sterownika JDBC");
-            e.printStackTrace();
-        }
-	    
-        //nawiazuje polaczenie z baza danych
+    	
+    	 try {
+             Class.forName(DRIVER);
+         } catch (ClassNotFoundException e) {
+             System.err.println("Brak sterownika JDBC");
+             e.printStackTrace();
+         }
+ 	    
+ 	    try {
+             conn = DriverManager.getConnection(DB_URL);
+             stmt = conn.createStatement();
+         } catch (SQLException e) {
+             System.err.println("Problem z otwarciem po³¹czenia");
+             e.printStackTrace();
+         }
+    	
+    	System.out.println("Podaj wykonawcê:");
+    	Scanner input = new Scanner(System.in);
+    	String artist = input.nextLine();
+    	input.close();
+       
         try {
-            conn = DriverManager.getConnection(DB_URL);
-            stmt = conn.createStatement();
-        } catch (SQLException e) {
-            System.err.println("Problem z otwarciem poÅ‚Ä…czenia");
+ 		   	conn = DriverManager.getConnection(DB_URL);
+			ResultSet result = stmt.executeQuery("SELECT * FROM plyta WHERE wykonawca='"+artist+"';");
+            int id;
+            String album;
+            int rok;
+            while(result.next()) {
+                id = result.getInt("id");
+                album = result.getString("album");
+                rok = result.getInt("rok");
+                System.out.println("id="+id+", wykonawca="+artist+",album="+album+",rok="+rok++);
+            }
+        }
+ 	   
+ 	   catch (SQLException e) {
+            System.err.println("Blad przy wykonywaniu SELECT");
             e.printStackTrace();
         }
-        
-        Scanner input = new Scanner(System.in);
-        String artist = input.nextLine();
-		String findArtist;
-		try{
-    		findArtist="SELECT * FROM plyta WHERE wykonawca='"+artist+"';";
-    		stmt.execute(findArtist);
-    	} catch (SQLException e){
-    		System.err.println("Blad przy znajdywaniu wykonawcy");
-            e.printStackTrace();
-    	}
-		input.close();
-		
     }
 
 }

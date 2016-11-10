@@ -49,7 +49,6 @@ public class MuzaTest {
 				op3.Delete();
 				break;
 			case 4:
-				System.out.println("Podaj wykonawcê");
 				op4.FindArtist();
 				break;
 			case 5:
