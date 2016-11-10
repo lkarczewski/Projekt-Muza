@@ -16,7 +16,6 @@ public class MuzaTest {
 		Scanner wejscie = new Scanner(System.in);
 		int opcja=0;
 		int opcja2=0;
-		int opcja3=0;
 		
 		do{
 			System.out.println("POLSKIE NAGRANIA 'MUZA' - BAZA P£YT WINYLOWYCH 1956-1991");
@@ -26,8 +25,8 @@ public class MuzaTest {
 			System.out.println("2 - Wyœwietl ca³¹ bazê danych");
 			System.out.println("3 - Usuñ tabele");
 			System.out.println("4 - Wyszukaj...");
-			System.out.println("6 - Wyœwietl wszystkie p³yty z danego roku");
-			System.out.println("7 - WyjdŸ");
+			System.out.println("5 - Wyœwietl wszystkie p³yty z danego roku");
+			System.out.println("6 - WyjdŸ");
 			System.out.println("---------------------------------------------------------");
 			System.out.println("Ÿród³o: pl.wikipedia.org/Polskie_Nagrania_Muza");
 			System.out.println("---------------------------------------------------------");
@@ -60,7 +59,16 @@ public class MuzaTest {
 				opcja2=wejscie.nextInt();
 					switch(opcja2){
 					case 1:
-						
+						op4a.FindId();
+						break;
+					case 2:
+						op4b.FindArtist();
+						break;
+					case 3:
+						op4c.FindAlbum();
+						break;
+					case 4:
+						break;
 					}
 				break;
 			case 5:

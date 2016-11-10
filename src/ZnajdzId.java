@@ -12,7 +12,7 @@ public class ZnajdzId {
     private static Connection conn;
     private static Statement stmt;
     
-    void FindArtist(){
+    void FindId(){
     	
     	 try {
              Class.forName(DRIVER);
