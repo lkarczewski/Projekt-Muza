@@ -9,6 +9,8 @@ public class MuzaTest {
 		Wyswietl op2 = new Wyswietl();
 		UsunBaze op3 = new UsunBaze();
 		ZnajdzWykonawce op4 = new ZnajdzWykonawce();
+		ZnajdzAlbum op5 = new ZnajdzAlbum();
+		ZestawienieRoczne op6 = new ZestawienieRoczne();
 		
 		Scanner wejscie = new Scanner(System.in);
 		int opcja=0;
@@ -52,9 +54,11 @@ public class MuzaTest {
 				break;
 			case 5:
 				System.out.println("Podaj nazwê albumu");
+				op5.FindAlbum();
 				break;
 			case 6:
 				System.out.println("Podaj rok");
+				op6.DisplayYear();
 				break;
 			case 7:
 				System.out.println("Zakoñczono");
