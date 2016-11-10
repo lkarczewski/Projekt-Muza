@@ -42,6 +42,7 @@ public class Wyswietl {
 	                rok = result.getInt("rok");
 	                System.out.println("id="+id+", wykonawca="+wykonawca+",album="+album+",rok="+rok++);
 	            }
+	            System.out.println("");
 	        }
 	 	   
 	 	   catch (SQLException e) {
