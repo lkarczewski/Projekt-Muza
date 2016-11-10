@@ -4,14 +4,14 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
-public class ZnajdzAlbum {
+public class ZestawienieRoczne {
 	public static final String DRIVER = "org.sqlite.JDBC";
     public static final String DB_URL = "jdbc:sqlite:Baza.db";
     
     private static Connection conn;
     private static Statement stmt;
     
-    void FindAlbum(){
+    void DisplayYear(){
     	//dodaje klase JDBC
 	    try {
             Class.forName(DRIVER);
@@ -30,13 +30,13 @@ public class ZnajdzAlbum {
         }
         
         Scanner input = new Scanner(System.in);
-        String record = input.nextLine();
-		String findAlbum;
+        String year = input.nextLine();
+		String findYear;
 		try{
-    		findAlbum="SELECT * FROM plyta WHERE album='"+record+"';";
-    		stmt.execute(findAlbum);
+    		findYear="SELECT * FROM plyta WHERE rok='"+year+"';";
+    		stmt.execute(findYear);
     	} catch (SQLException e){
-    		System.err.println("Blad przy znajdywaniu albumu");
+    		System.err.println("Blad przy znajdywaniu roku");
             e.printStackTrace();
     	}
 		input.close();
