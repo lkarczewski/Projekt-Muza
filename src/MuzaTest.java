@@ -11,7 +11,7 @@ public class MuzaTest {
 		ZnajdzId op4a = new ZnajdzId();
 		ZnajdzWykonawce op4b = new ZnajdzWykonawce();
 		ZnajdzAlbum op4c = new ZnajdzAlbum();
-		ZestawienieRoczne op6 = new ZestawienieRoczne();
+		ZnajdzRok op6 = new ZnajdzRok();
 		
 		Scanner wejscie = new Scanner(System.in);
 		int opcja=0;
@@ -72,7 +72,6 @@ public class MuzaTest {
 					}
 				break;
 			case 5:
-				System.out.println("Podaj rok");
 				op6.DisplayYear();
 				break;
 			case 6:
