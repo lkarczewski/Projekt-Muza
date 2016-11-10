@@ -8,6 +8,7 @@ public class MuzaTest {
 		Filtrowanie op1a = new Filtrowanie();
 		Wyswietl op2 = new Wyswietl();
 		UsunBaze op3 = new UsunBaze();
+		ZnajdzWykonawce op4 = new ZnajdzWykonawce();
 		
 		Scanner wejscie = new Scanner(System.in);
 		int opcja=0;
@@ -47,6 +48,7 @@ public class MuzaTest {
 				break;
 			case 4:
 				System.out.println("Podaj wykonawcê");
+				op4.FindArtist();
 				break;
 			case 5:
 				System.out.println("Podaj nazwê albumu");

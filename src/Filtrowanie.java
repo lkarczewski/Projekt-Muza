@@ -44,8 +44,8 @@ public class Filtrowanie {
     	try
     	{
     		while((strLine = br.readLine()) != null){
-    			String[] result = strLine.split(";",-1);
-    			dodaj.Add(Integer.parseInt(result[0]),result[1],result[2],Integer.parseInt(result[3]));
+    			String[] rekord = strLine.split(";",-1);
+    			dodaj.Add(Integer.parseInt(rekord[0]),rekord[1],rekord[2],Integer.parseInt(rekord[3]));
     		}
     	}
     	catch(IOException e)
