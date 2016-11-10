@@ -5,14 +5,14 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
-public class ZnajdzAlbum {
+public class ZnajdzId {
 	public static final String DRIVER = "org.sqlite.JDBC";
     public static final String DB_URL = "jdbc:sqlite:Baza.db";
     
     private static Connection conn;
     private static Statement stmt;
     
-    void FindAlbum(){
+    void FindArtist(){
     	
     	 try {
              Class.forName(DRIVER);
@@ -29,22 +29,22 @@ public class ZnajdzAlbum {
              e.printStackTrace();
          }
     	
-    	System.out.println("Podaj nazwê albumu:");
+    	System.out.println("Podaj id:");
     	Scanner input = new Scanner(System.in);
-    	String record = input.nextLine();
+    	int catnum = input.nextInt();
     	input.close();
        
         try {
  		   	conn = DriverManager.getConnection(DB_URL);
-			ResultSet result = stmt.executeQuery("SELECT * FROM plyta WHERE album='"+record+"';");
-            int id;
+			ResultSet result = stmt.executeQuery("SELECT * FROM plyta WHERE id='"+catnum+"';");
             String wykonawca;
+            String album;
             int rok;
             while(result.next()) {
-                id = result.getInt("id");
-                wykonawca = result.getString("wykonawca");
+            	wykonawca = result.getString("wykonawca");
+                album = result.getString("album");
                 rok = result.getInt("rok");
-                System.out.println("id="+id+", wykonawca="+wykonawca+",album="+record+",rok="+rok++);
+                System.out.println("id="+catnum+", wykonawca="+wykonawca+",album="+album+",rok="+rok++);
             }
         }
  	   
