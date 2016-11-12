@@ -29,11 +29,9 @@ public class ZnajdzAlbum {
 			e.printStackTrace();
 		}
 
-		System.out.println("Podaj nazwê albumu:");
-		// Scanner wejscie = new Scanner(System.in);
-		wejscie.nextLine();
+		System.out.println("Podaj album:");
+		// Scanner input = new Scanner(System.in);
 		String record = wejscie.nextLine();
-		// input.close();
 
 		try {
 			conn = DriverManager.getConnection(DB_URL);

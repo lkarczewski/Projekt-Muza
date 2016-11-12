@@ -6,6 +6,7 @@ import java.sql.Statement;
 import java.util.Scanner;
 
 public class ZnajdzWykonawce {
+
 	public static final String DRIVER = "org.sqlite.JDBC";
 	public static final String DB_URL = "jdbc:sqlite:Baza.db";
 
@@ -21,13 +22,13 @@ public class ZnajdzWykonawce {
 		// e.printStackTrace();
 		// }
 
-		// try {
-		// conn = DriverManager.getConnection(DB_URL);
-		// stmt = conn.createStatement();
-		// } catch (SQLException e) {
-		// System.err.println("Problem z otwarciem po³¹czenia");
-		// e.printStackTrace();
-		// }
+		try {
+			conn = DriverManager.getConnection(DB_URL);
+			stmt = conn.createStatement();
+		} catch (SQLException e) {
+			System.err.println("Problem z otwarciem po³¹czenia");
+			e.printStackTrace();
+		}
 
 		System.out.println("Podaj wykonawcê:");
 		// Scanner input = new Scanner(System.in);
@@ -37,7 +38,7 @@ public class ZnajdzWykonawce {
 		// input.close();
 
 		try {
-			conn = DriverManager.getConnection(DB_URL);
+			// conn = DriverManager.getConnection(DB_URL);
 			ResultSet result = stmt.executeQuery("SELECT * FROM plyta WHERE wykonawca='" + artist + "';");
 			int id;
 			String album;
@@ -48,6 +49,8 @@ public class ZnajdzWykonawce {
 				rok = result.getInt("rok");
 				System.out.println("id=" + id + ", wykonawca=" + artist + ",album=" + album + ",rok=" + rok++);
 			}
+			// conn.close();
+
 		}
 
 		catch (SQLException e) {

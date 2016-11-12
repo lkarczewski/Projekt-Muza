@@ -10,14 +10,13 @@ public class MuzaTest {
 
 	public static void main(String[] args) throws FileNotFoundException, SQLException {
 
+		// Sprawdzenie obecnoœci sterownika JDBC
 		try {
 			Class.forName(DRIVER);
 		} catch (ClassNotFoundException e) {
-			// System.err.println("Brak sterownika JDBC");
-			// e.printStackTrace();
 			throw new RuntimeException("Brak sterownika JDBC", e);
 		}
-
+		// Utworzenie wymaganych obiektów
 		StworzBaze op1 = new StworzBaze();
 		Filtrowanie op1a = new Filtrowanie();
 		Wyswietl op2 = new Wyswietl();
@@ -25,10 +24,11 @@ public class MuzaTest {
 		UsunBaze op3 = new UsunBaze();
 		ZnajdzRok op5 = new ZnajdzRok();
 		ZestawieniaMenu op6 = new ZestawieniaMenu();
-
+		// Komunikacja z u¿ytkownikiem
 		Scanner wejscie = new Scanner(System.in);
 		int opcja = 0;
 
+		// G³ówna pêtla programu
 		do {
 			System.out.println("POLSKIE NAGRANIA 'MUZA' - BAZA P£YT WINYLOWYCH 1956-1991");
 			System.out.println("		© £ukasz Karczewski, 2016				");
@@ -44,14 +44,15 @@ public class MuzaTest {
 			System.out.println("Ÿród³o: pl.wikipedia.org/Polskie_Nagrania_Muza");
 			System.out.println("---------------------------------------------------------");
 			System.out.println("WprowadŸ liczbê aby wybraæ opcjê:");
-			// opcja = wejscie.nextInt();
+			// Wczytanie numeru opcji
 			try {
 				opcja = wejscie.nextInt();
 			} catch (InputMismatchException e) {
-				// wejscie.nextLine(); // przeczytaj wadliw¹ liniê
 				opcja = 0;
 			}
-			wejscie.nextLine(); // przeczytanie koñca linii po cyfrze
+			// Przeczytanie koñca linii po cyfrze lub przeczytanie ca³ej b³êdnej
+			// linii
+			wejscie.nextLine();
 
 			switch (opcja) {
 			case 1:
@@ -73,7 +74,7 @@ public class MuzaTest {
 				op4.SearchMenu(wejscie);
 				break;
 			case 5:
-				op5.DisplayYear(wejscie);
+				op5.displayYear(wejscie);
 				break;
 			case 6:
 				op6.JuxMenu();
@@ -85,6 +86,8 @@ public class MuzaTest {
 				System.out.println("WprowadŸ poprawn¹ liczbê");
 			}
 		} while (opcja != 7);
+		// Zamyka skaner i strumieñ standardowy
 		wejscie.close();
 	}
+
 }

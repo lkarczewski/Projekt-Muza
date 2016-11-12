@@ -32,7 +32,6 @@ public class ZnajdzId {
 		System.out.println("Podaj id:");
 		// Scanner input = new Scanner(System.in);
 		int catnum = wejscie.nextInt();
-		// input.close();
 
 		try {
 			conn = DriverManager.getConnection(DB_URL);
